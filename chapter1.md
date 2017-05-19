@@ -44,8 +44,4 @@
 
 > 混合阴影
 
-<video id="whatismaterial-materialprop-movementmaterial-020203_PaperPointExpand_xhdpi_004" width="760" height="360" controls="">
-    <source src="//material-design.storage.googleapis.com/publish/v_1/quantumexternal/0B0NGgBg38lWWWWhMRFVudjl4bTQ/whatismaterial-materialprop-movementmaterial-020203_PaperPointExpand_xhdpi_004.webm" type="video/webm">
-    <source src="//material-design.storage.googleapis.com/publish/v_1/quantumexternal/0B0NGgBg38lWWQml4UFAxREJEQVE/whatismaterial-materialprop-movementmaterial-020203_PaperPointExpand_xhdpi_004.mp4" type="video/mp4">
-</video>
 
