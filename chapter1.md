@@ -1,3 +1,19 @@
-# First Chapter
+# 环境
 
-GitBook allows you to organize your book into chapters, each chapter is stored in a separate file like this one.
+> 质感设计是一个含括光，材质和投影的三维环境
+
+![](/assets/what_is_material_environment.png)  
+
+
+所有材质（material）对象都具有X,Y,Z三种维度
+
+所有材质对象拥有唯一的Z轴位置
+
+主光源产生平行光长投影，环境光创造出软阴影（柔和阴影\)
+
+每个质感对象的厚度为1dp
+
+阴影是由相互重叠的材质间的高差产生的
+
+
+
