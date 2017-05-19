@@ -2,8 +2,7 @@
 
 > 质感设计是一个含括光，材质和投影的三维环境
 
-![](/assets/what_is_material_environment.png)  
-
+![](/assets/what_is_material_environment.png)
 
 所有材质（material）对象都具有X,Y,Z三种维度
 
@@ -14,6 +13,12 @@
 每个质感对象的厚度为1dp
 
 阴影是由相互重叠的材质间的高差产生的
+
+---
+
+> 3D世界
+>
+> 光与影
 
 
 

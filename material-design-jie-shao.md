@@ -1,7 +1,5 @@
 # Material Design（质感设计） 介绍
 
----
-
 ![](/assets/materialdesign_introduction.png)
 
 我们挑战自我，为用户创造了一套综合传统经典设计理论与创新科技于一身的设计语言。Material Design, 中文称为质感设计。
@@ -11,8 +9,6 @@
 > 设计原则
 
 ## 目标
-
----
 
 希冀创造出一套将经典的设计原则与创新科技理念融于一身的设计语言
 
@@ -24,9 +20,9 @@
 
 ## 设计原则
 
----
-
 ![](/assets/materialdesign_principles_metaphor.png)
+
+
 
 > 质感隐喻
 
@@ -36,9 +32,11 @@
 
 光线，物体表面的变化及其运动的基本原理是表达物体如何运动，交互方式，空间关系的关键。真实的光效可以展示出物体之间的相互关系，分离关系和如何运动。
 
----
+
 
 ![](/assets/materialdesign-principles-circleplus_large_xhdpi.png)
+
+
 
 > 鲜明，形象，目标明确的设计
 
@@ -46,9 +44,11 @@
 
 Material Design 强调在用户操作过程中核心功能需要立即展现，并为用户提供操作锚点（操作轨迹或导航路径）
 
----
+
 
 ![](/assets/materialdesign-principles-flyingsquare_large_xhdpi.png)
+
+
 
 > 有意义的动效
 
