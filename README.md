@@ -2,6 +2,10 @@
 
 本书是根据[ Google Material Design](https://material.io/) 最新版本翻譯而來，仅供自学及其他设计爱好者交流。
 
+## 版本
+
+* 0.1 version --- 翻译自Material Design 介绍及环境章节
+
 ## 译者
 
 Bixbite
