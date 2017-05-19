@@ -34,7 +34,7 @@
 
 ![](/assets/whatismaterial_environment_shadow1.png)
 
-> 关键光阴影
+> 主光源阴影
 
 ![](/assets/whatismaterial_environment_shadow2.png)
 
