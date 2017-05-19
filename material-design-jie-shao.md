@@ -7,7 +7,7 @@
 
 >[目标](#aim)
 >
-> 设计原则
+>[设计原则](#principle)
 
 <h2 id="aim">目标</h2>
 
@@ -19,7 +19,7 @@
 
 ![](/assets/materialdesign-goals-cutrectangles_large_xhdpi.png)
 
-## 设计原则
+<h2 id="principle">设计原则</h2>
 
 ![](/assets/materialdesign_principles_metaphor.png)
 
