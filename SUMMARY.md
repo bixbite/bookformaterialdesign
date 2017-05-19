@@ -1,6 +1,6 @@
 # Summary
 
 * Material Design 介绍
-* *[Material Design 介绍](material-design-jie-shao.md)
-* *[环境](chapter1.md)
+  * [Material Design 介绍](material-design-jie-shao.md)
+  * [环境](chapter1.md)
 
