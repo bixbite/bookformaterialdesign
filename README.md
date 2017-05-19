@@ -10,7 +10,7 @@
 
 Bixbite
 
-## 校稿 {#%E6%A0%A1%E7%A8%BF}
+##  {#%E6%A0%A1%E7%A8%BF}
 
-對於翻譯有任何問題，可以在 [Issue](https://github.com/Wcc723/google_design_translate/issues) 中提出，或者使用 [Pull requests](https://github.com/Wcc723/google_design_translate/pulls) 。
+
 
