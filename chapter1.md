@@ -15,11 +15,12 @@
 
 阴影是由相互重叠的材质间的高差产生的
 
-> 3D世界
->
-> 光与影
+<blockquote style="color:#00bcd4">
+<p><a href="#3d">目标</a></p>
+<p><a href="#lshadow">设计原则</a></p>
+</blockquote>
 
-## 3D世界
+<h2 id="3d" style="color: #00bcd4">3D世界</h2>
 
 ![](/assets/whatismaterial_environment_3d.png)
 
@@ -27,7 +28,7 @@
 
 在网页中，z轴被用来进行层次的表达而非透视关系的表述。我们通过对y轴的操作来模拟3D世界。
 
-## 光与影
+<h2 id="lshadow" style="color: #00bcd4">光与影</h2>
 
 在材质（material）环境中，虚拟光线照射整个场景使对象投射阴影。主光源创造平行光长投影，而环境光源从各个角度创造出连贯且柔和的投影。
 
