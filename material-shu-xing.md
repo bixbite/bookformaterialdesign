@@ -38,7 +38,7 @@
 材质拥有不同的x，y轴(宽高)尺寸及均匀的厚度（单位为1dp）
 
 <figure style="width: 40%;display: inline-block;margin-right: 20px;">
-	<div><img src="assets/what_is_material_material_properties.png" alt=""></div>
+	<div><img src="assets/whatismaterial_materialproperties_physicalproperties_thickness_01_yes.png" alt=""></div>
 	<figcaption style="border-top:15px solid #4caf50;padding: 10px;margin-top:10px">
 	<p style="color: #2e7b32">正确</p>
 	<p>材质的宽高可以不同</p>
@@ -46,7 +46,7 @@
 </figure>
 
 <figure style="width: 40%;display: inline-block;">
-	<div><img src="assets/what_is_material_material_properties.png" alt=""></div>
+	<div><img src="assets/whatismaterial_materialproperties_physicalproperties_thickness_02_no.png" alt=""></div>
 	<figcaption style="border-top:15px solid #d32f2f;padding: 10px;margin-top:10px">
 	<p style="color: #d32f2f">错误</p>
 	<p>材质厚度永远是1dp</p>
