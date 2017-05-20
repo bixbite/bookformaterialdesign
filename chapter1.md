@@ -1,7 +1,9 @@
 <h1 style="color:#00bcd4;">环境</h1>
 <hr style="height:1px;"></hr>
 
-> 质感设计是一个含括光，材质和投影的三维环境
+<blockquote style="color:#00bcd4;border-left: 4px solid #00bcd4;margin: 20px 0;">
+<p>质感设计是一个含括光，材质和投影的三维环境</p>
+</blockquote>
 
 ![](/assets/what_is_material_environment.png)
 
@@ -15,7 +17,7 @@
 
 阴影是由相互重叠的材质间的高差产生的
 
-<blockquote style="color:#00bcd4;border-left: 4px solid #00bcd4;margin-top: 30px;">
+<blockquote style="color:#00bcd4;border-left: 4px solid #00bcd4;margin: 20px 0;">
 <p><a href="#3d">3D世界</a></p>
 <p><a href="#lshadow">光与影</a></p>
 </blockquote>
