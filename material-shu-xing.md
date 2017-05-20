@@ -1,7 +1,9 @@
-<h1 style="color:#00bcd4;">Material 属性</h1>
+<h1 id="envir" style="color:#00bcd4;margin: 0">Material 属性</h1>
 <hr style="height:1px;"></hr>
 
-> 材质(material)具有一些不变的特性和固有的行为
+<blockquote style="color:#00bcd4;border-left: 4px solid #00bcd4;margin: 30px 0;">
+<p>材质(material)具有一些不变的特性和固有的行为</p>
+</blockquote>
 
 ![](/assets/what_is_material_material_properties.png)
 
