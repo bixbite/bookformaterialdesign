@@ -71,7 +71,7 @@
 	</figcaption>
 </figure>
 
-<figure style="width: 90%">
+<figure style="width: 90%; margin-bottom:30px">
 	<div>
 <video id="whatismaterial-materialprop-physicalprop-020201_PaperShadow_Dont_xhdpi_007" width="100%" height="100%" controls="">
     <source src="//material-design.storage.googleapis.com/publish/v_1/quantumexternal/0B0NGgBg38lWWYU5lQ1VXQjA3NnM/whatismaterial-materialprop-physicalprop-020201_PaperShadow_Dont_xhdpi_007.webm" type="video/webm">
