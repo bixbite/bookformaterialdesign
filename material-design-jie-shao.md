@@ -1,10 +1,3 @@
-<style type="text/css">
-	#id {
-		font-size: 60px;
-		color: red;
-	}
-</style>
-
 <h1 id="envir" style="color:#00bcd4;margin: 0">Material Design (质感设计) 介绍</h1>
 <hr style="height:1px;"></hr>
 
@@ -24,11 +17,11 @@
 
 希冀创造出一套将经典的设计原则与创新科技理念融于一身的设计语言
 
-<div style="width: 70%; margin: 15px 0;"><img src="assets/materialdesign_goals_language.png" alt=""></div>
+<div style="width: 90%; margin: 15px 0;"><img src="assets/materialdesign_goals_language.png" alt=""></div>
 
 希冀开发一套独一的底层系统，在此系统上构建跨平台和超越设备尺寸大小的统一用户体验。遵循基本的移动设计原则，同时触摸，语音，鼠标，键盘也要作为优先考虑的输入方式。
 
-<div style="width: 70%; margin: 15px 0;"><img src="assets/materialdesign-goals-cutrectangles_large_xhdpi.png" alt=""></div>
+<div style="width: 90%; margin: 15px 0;"><img src="assets/materialdesign-goals-cutrectangles_large_xhdpi.png" alt=""></div>
 
 <hr style="height:1px; background-color: #fff; margin-bottom: 50px;"></hr>
 
