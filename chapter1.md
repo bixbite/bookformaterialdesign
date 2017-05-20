@@ -43,15 +43,15 @@
 
 <div style="width: 70%; margin: 15px 0;"><img src="assets/whatismaterial_environment_shadow1.png" alt=""></div>
 
-<blockquote style="color:#00bcd4;border-left: 4px solid #00bcd4;margin: 30px 0;">主光源阴影</blockquote>
+<p>主光源阴影</p>
 
 <div style="width: 70%"><img src="assets/whatismaterial_environment_shadow2.png" alt=""></div>
 
-<blockquote style="color:#00bcd4;border-left: 4px solid #00bcd4;margin: 30px 0;">环境光阴影</blockquote>
+<p>环境光阴影</p>
 
 <div style="width: 70%"><img src="assets/whatismaterial_environment_shadow3.png" alt=""></div>
 
-<blockquote style="color:#00bcd4;border-left: 4px solid #00bcd4;margin: 30px 0;">混合阴影</blockquote>
+<p>混合阴影</p>
 
 <h5><a href="#envir" style="position:fixed;right:120px;bottom:30px">回到顶部</a></h5>
 
