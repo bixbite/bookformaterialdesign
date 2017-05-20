@@ -58,8 +58,6 @@
 
 阴影由材质间相对高度自然产生
 
-
-
 <figure style="width: 90%">
 	<div>
 	<video id="whatismaterial-materialprop-physicalprop-020201_PaperShadow_Do_xhdpi_007" width="100%" height="100%" controls="">
@@ -70,6 +68,19 @@
 	<figcaption style="border-top:15px solid #4caf50;padding: 10px;margin-top:10px">
 	<p style="color: #2e7b32;margin-bottom: 0.3em;">正确</p>
 	<p>不同的阴影形态描绘了材质间的相对高度的变化</p>
+	</figcaption>
+</figure>
+
+<figure style="width: 90%">
+	<div>
+<video id="whatismaterial-materialprop-physicalprop-020201_PaperShadow_Dont_xhdpi_007" width="100%" height="100%" controls="">
+    <source src="//material-design.storage.googleapis.com/publish/v_1/quantumexternal/0B0NGgBg38lWWYU5lQ1VXQjA3NnM/whatismaterial-materialprop-physicalprop-020201_PaperShadow_Dont_xhdpi_007.webm" type="video/webm">
+    <source src="//material-design.storage.googleapis.com/publish/v_1/quantumexternal/0B0NGgBg38lWWM0xqQms4LWRkMVE/whatismaterial-materialprop-physicalprop-020201_PaperShadow_Dont_xhdpi_007.mp4" type="video/mp4">
+</video>
+	</div>
+	<figcaption style="border-top:15px solid #d32f2f;padding: 10px;margin-top:10px">
+	<p style="color: #d32f2f;margin-bottom: 0.3em;">错误</p>
+	<p>当材质发生变化（高度），阴影绝不会保持相似</p>
 	</figcaption>
 </figure>
 
