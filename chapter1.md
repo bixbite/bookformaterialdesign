@@ -43,15 +43,15 @@
 
 材质l环境中的所有阴影都是由这两种光源产生的。在Andriod中，当沿着z轴的各个位置的光源被材质片层阻挡时，就会产生阴影。在网页应用中，仅通过操作y轴来描绘阴影。
 
-<div style="width: 70%; margin: 15px 0 0 0;"><img src="assets/whatismaterial_environment_shadow1.png" alt=""></div>
+<div style="width: 40%; margin: 15px 0 0 0;"><img src="assets/whatismaterial_environment_shadow1.png" alt=""></div>
 
 <p style="margin: 10px 0 50px">主光源阴影</p>
 
-<div style="width: 70%"><img src="assets/whatismaterial_environment_shadow2.png" alt=""></div>
+<div style="width: 40%"><img src="assets/whatismaterial_environment_shadow2.png" alt=""></div>
 
 <p style="margin: 10px 0 50px">环境光阴影</p>
 
-<div style="width: 70%"><img src="assets/whatismaterial_environment_shadow3.png" alt=""></div>
+<div style="width: 40%"><img src="assets/whatismaterial_environment_shadow3.png" alt=""></div>
 
 <p style="margin: 10px 0 50px">混合阴影</p>
 
