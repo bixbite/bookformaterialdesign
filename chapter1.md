@@ -1,7 +1,7 @@
-<h1 id="envir" style="color:#00bcd4;">环境</h1>
+<h1 id="envir" style="color:#00bcd4;margin: 0">环境</h1>
 <hr style="height:1px;"></hr>
 
-<blockquote style="color:#00bcd4;border-left: 4px solid #00bcd4;margin: 20px 0;">
+<blockquote style="color:#00bcd4;border-left: 4px solid #00bcd4;margin: 30px 0;">
 <p>质感设计是一个含括光，材质和投影的三维环境</p>
 </blockquote>
 
@@ -11,13 +11,13 @@
 
 所有材质对象拥有唯一的Z轴位置
 
-主光源产生平行光长投影，环境光创造出软阴影（柔和阴影\)
+主光源产生平行光长投影，环境光创造出软阴影（柔和阴影)
 
 每个质感对象的厚度为1dp
 
 阴影是由相互重叠的材质间的高差产生的
 
-<blockquote style="color:#00bcd4;border-left: 4px solid #00bcd4;margin: 20px 0;">
+<blockquote style="color:#00bcd4;border-left: 4px solid #00bcd4;margin: 30px 0;">
 <p><a href="#3d">3D世界</a></p>
 <p><a href="#lshadow">光与影</a></p>
 </blockquote>
@@ -38,15 +38,15 @@
 
 ![](/assets/whatismaterial_environment_shadow1.png)
 
-> 主光源阴影
+<blockquote style="color:#00bcd4;border-left: 4px solid #00bcd4;margin: 30px 0;">主光源阴影</blockquote>
 
 ![](/assets/whatismaterial_environment_shadow2.png)
 
-> 环境光阴影
+<blockquote style="color:#00bcd4;border-left: 4px solid #00bcd4;margin: 30px 0;">环境光阴影</blockquote>
 
 ![](/assets/whatismaterial_environment_shadow3.png)
 
-> 混合阴影
+<blockquote style="color:#00bcd4;border-left: 4px solid #00bcd4;margin: 30px 0;">混合阴影</blockquote>
 
 <h5><a href="#envir" style="position:fixed;right:120px;bottom:30px">回到顶部</a></h5>
 
