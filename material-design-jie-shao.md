@@ -1,5 +1,5 @@
 # Material Design（质感设计） 介绍
-----
+<hr style="height:1px;"></hr>
 
 ![](/assets/materialdesign_introduction.png)
 
