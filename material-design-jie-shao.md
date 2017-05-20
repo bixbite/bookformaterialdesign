@@ -32,7 +32,7 @@
 
 光线，物体表面的变化及其运动的基本原理是表达物体如何运动，交互方式，空间关系的关键。真实的光效可以展示出物体之间的相互关系，分离关系和如何运动。
 
-<hr style="height:1px; background-color: #fff;"></hr>
+<hr style="height:1px; background-color: #fff; margin-bottom: 50px"></hr>
 
 ![](/assets/materialdesign-principles-circleplus_large_xhdpi.png)
 
@@ -42,7 +42,7 @@
 
 Material Design 强调在用户操作过程中核心功能需要立即展现，并为用户提供操作锚点（操作轨迹或导航路径）
 
-<hr style="height:1px; background-color: #fff;"></hr>
+<hr style="height:1px; background-color: #fff; margin-bottom: 50px"></hr>
 
 ![](/assets/materialdesign-principles-flyingsquare_large_xhdpi.png)
 
