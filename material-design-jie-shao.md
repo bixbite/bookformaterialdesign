@@ -1,13 +1,14 @@
 <h1 id="envir" style="color:#00bcd4;margin: 0">Material Design (质感设计) 介绍</h1>
 <hr style="height:1px;"></hr>
 
-![](/assets/materialdesign_introduction.png)
+<div style="width: 70%"><img src="assets/materialdesign_introduction.png" alt=""></div>
 
 我们挑战自我，为用户创造了一套综合传统经典设计理论与创新科技于一身的设计语言。Material Design, 中文称为质感设计。
 
 <hr style="height:1px; background-color: #fff; margin-bottom: 50px;"></hr>
 
 <blockquote style="color:#00bcd4;border-left: 4px solid #00bcd4;margin: 30px 0;">
+<p style="color:#757575">内容</p>
 <h4><a href="#aim">目标</a></h4>
 <h4><a href="#principle">设计原则</a></h4>
 </blockquote>
@@ -16,17 +17,17 @@
 
 希冀创造出一套将经典的设计原则与创新科技理念融于一身的设计语言
 
-![](/assets/materialdesign_goals_language.png)
+<div style="width: 70%"><img src="assets/materialdesign_goals_language.png" alt=""></div>
 
 希冀开发一套独一的底层系统，在此系统上构建跨平台和超越设备尺寸大小的统一用户体验。遵循基本的移动设计原则，同时触摸，语音，鼠标，键盘也要作为优先考虑的输入方式。
 
-![](/assets/materialdesign-goals-cutrectangles_large_xhdpi.png)
+<div style="width: 70%"><img src="assets/cutrectangles_large_xhdpi.png" alt=""></div>
 
 <hr style="height:1px; background-color: #fff; margin-bottom: 50px;"></hr>
 
 <h2 id="principle" style="color:#00bcd4;">设计原则</h2>
 
-![](/assets/materialdesign_principles_metaphor.png)
+<div style="width: 70%"><img src="assets/materialdesign_principles_metaphor.png" alt=""></div>
 
 <blockquote style="color:#00bcd4;border-left: 4px solid #00bcd4;margin: 30px 0;">质感隐喻</blockquote>
 
@@ -38,7 +39,7 @@
 
 <hr style="height:1px; background-color: #fff; margin-bottom: 50px;"></hr>
 
-![](/assets/materialdesign-principles-circleplus_large_xhdpi.png)
+<div style="width: 70%"><img src="assets/circleplus_large_xhdpi.png" alt=""></div>
 
 <blockquote style="color:#00bcd4;border-left: 4px solid #00bcd4;margin: 30px 0;">鲜明，形象，目标导向设计</blockquote>
 
@@ -48,7 +49,7 @@ Material Design 强调在用户操作过程中核心功能需要立即展现，�
 
 <hr style="height:1px; background-color: #fff; margin-bottom: 50px;"></hr>
 
-![](/assets/materialdesign-principles-flyingsquare_large_xhdpi.png)
+<div style="width: 70%"><img src="assets/flyingsquare_large_xhdpi.png" alt=""></div>
 
 <blockquote style="color:#00bcd4;border-left: 4px solid #00bcd4;margin: 30px 0;">有意义的动效</blockquote>
 
