@@ -58,6 +58,7 @@
 
 阴影由材质间相对高度自然产生
 
+<section>
 <figure style="width: 90%;margin-bottom: 30px">
 	<div>
 	<video id="whatismaterial-materialprop-physicalprop-020201_PaperShadow_Do_xhdpi_007" width="100%" height="100%" controls="">
@@ -83,6 +84,8 @@
 	<p>当材质发生变化（高度），阴影绝不会保持相似</p>
 	</figcaption>
 </figure>
+</section>
 
+内容以不同的形状和颜色显示在材质上，而不会额外增加材质的厚度
 
 
