@@ -33,21 +33,23 @@
 
 <hr style="height:1px; background-color: #fff; margin-bottom: 50px;"></hr>
 
-<h2 id="physics" style="color: #00bcd4"></h2>
+<h2 id="physics" style="color: #00bcd4">物理特性</h2>
 
-<figure style="width: 40%;display: inline-block;">
+材质拥有不同的x，y轴(宽高)尺寸及均匀的厚度（单位为1dp）
+
+<figure style="width: 40%;display: inline-block;margin-right: 20px;">
 	<div><img src="assets/what_is_material_material_properties.png" alt=""></div>
-	<figcaption>
-	<p>Do.</p>
-	<p>The height and width of material can vary.</p>
+	<figcaption style="border-top:4px solid #green">
+	<p>正确</p>
+	<p>材质的宽高可以不同</p>
 	</figcaption>
 </figure>
 
 <figure style="width: 40%;display: inline-block;">
 	<div><img src="assets/what_is_material_material_properties.png" alt=""></div>
-	<figcaption>
-	<p>Do.</p>
-	<p>The height and width of material can vary.</p>
+	<figcaption style="border-top:4px solid #green">
+	<p>错误</p>
+	<p>材质厚度永远是1dp</p>
 	</figcaption>
 </figure>
 
