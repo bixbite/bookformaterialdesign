@@ -3,7 +3,9 @@
 
 <div style="width: 90%; margin: 30px 0 15px;"><img src="assets/materialdesign_introduction.png" alt=""></div>
 
-我们挑战自我，为用户创造了一套综合传统经典设计理论与创新科技于一身的设计语言。Material Design, 中文称为质感设计。
+我们向自己提出了挑战：如何为用户创造一种视觉语言，结合优秀的的经典设计原理与科技提供的创新可能性？
+
+Material Design, 中文称之为质感设计。
 
 <hr style="height:1px; background-color: #fff; margin-bottom: 50px;"></hr>
 
