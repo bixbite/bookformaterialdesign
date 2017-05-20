@@ -24,8 +24,6 @@
 
 ![](/assets/materialdesign_principles_metaphor.png)
 
-
-
 <blockquote style="color:#00bcd4;border-left: 4px solid #00bcd4;margin: 30px 0;">质感隐喻</blockquote>
 
 质感隐喻是对空间合理利用及运动系统化的统一结合。质感是感触实物的基础，Material Design的灵感来源于对传统的纸张和油墨的认知，同时凭借先进技术不断引入天马行空的新奇构思。
@@ -34,7 +32,7 @@
 
 光线，物体表面的变化及其运动的基本原理是表达物体如何运动，交互方式，空间关系的关键。真实的光效可以展示出物体之间的相互关系，分离关系和如何运动。
 
-
+<hr style="height:30px; margin-bottom: 30px"></hr>
 
 ![](/assets/materialdesign-principles-circleplus_large_xhdpi.png)
 
