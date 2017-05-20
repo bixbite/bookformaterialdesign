@@ -27,7 +27,7 @@
 
 <h2 id="3d" style="color: #00bcd4">3D世界</h2>
 
-<div style="width: 70%"><img src="assets/whatismaterial_environment_3d.png" alt=""></div>
+<div style="width: 70%; margin-bottom:15px"><img src="assets/whatismaterial_environment_3d.png" alt=""></div>
 
 材质（material）对象所处的环境是一个3D空间，这意味着所有对象都具有x，y，z三个维度。z轴与显示平面相垂直，并向用户视角延伸。每个材质元素在z轴上占据一个位置且厚度为1dp。
 
@@ -41,7 +41,7 @@
 
 材质l环境中的所有阴影都是由这两种光源产生的。在Andriod中，当沿着z轴的各个位置的光源被材质片层阻挡时，就会产生阴影。在网页应用中，仅通过操作y轴来描绘阴影。
 
-<div style="width: 70%"><img src="assets/whatismaterial_environment_shadow1.png" alt=""></div>
+<div style="width: 70%; margin: 15px 0;"><img src="assets/whatismaterial_environment_shadow1.png" alt=""></div>
 
 <blockquote style="color:#00bcd4;border-left: 4px solid #00bcd4;margin: 30px 0;">主光源阴影</blockquote>
 
