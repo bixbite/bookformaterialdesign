@@ -58,7 +58,7 @@
 
 阴影由材质间相对高度自然产生
 
-<figure style="width: 90%；margin-bottom:30px">
+<figure style="width: 90%;margin-bottom: 30px">
 	<div>
 	<video id="whatismaterial-materialprop-physicalprop-020201_PaperShadow_Do_xhdpi_007" width="100%" height="100%" controls="">
     <source src="//material-design.storage.googleapis.com/publish/v_1/quantumexternal/0B0NGgBg38lWWSE9IaUpqYzlpSW8/whatismaterial-materialprop-physicalprop-020201_PaperShadow_Do_xhdpi_007.webm" type="video/webm">
@@ -71,7 +71,7 @@
 	</figcaption>
 </figure>
 
-<figure style="width: 90%; margin-bottom:30px">
+<figure style="width: 90%;margin-bottom: 30px">
 	<div>
 <video id="whatismaterial-materialprop-physicalprop-020201_PaperShadow_Dont_xhdpi_007" width="100%" height="100%" controls="">
     <source src="//material-design.storage.googleapis.com/publish/v_1/quantumexternal/0B0NGgBg38lWWYU5lQ1VXQjA3NnM/whatismaterial-materialprop-physicalprop-020201_PaperShadow_Dont_xhdpi_007.webm" type="video/webm">
