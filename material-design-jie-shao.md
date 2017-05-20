@@ -5,12 +5,12 @@
 
 我们挑战自我，为用户创造了一套综合传统经典设计理论与创新科技于一身的设计语言。Material Design, 中文称为质感设计。
 
+<hr style="height:1px; background-color: #fff; margin-bottom: 50px;"></hr>
+
 <blockquote style="color:#00bcd4;border-left: 4px solid #00bcd4;margin: 30px 0;">
 <h4><a href="#aim">目标</a></h4>
 <h4><a href="#principle">设计原则</a></h4>
 </blockquote>
-
-<hr style="height:1px; background-color: #fff; margin-bottom: 50px;"></hr>
 
 <h2 id="aim" style="color:#00bcd4;">目标</h2>
 
@@ -21,6 +21,8 @@
 希冀开发一套独一的底层系统，在此系统上构建跨平台和超越设备尺寸大小的统一用户体验。遵循基本的移动设计原则，同时触摸，语音，鼠标，键盘也要作为优先考虑的输入方式。
 
 ![](/assets/materialdesign-goals-cutrectangles_large_xhdpi.png)
+
+<hr style="height:1px; background-color: #fff; margin-bottom: 50px;"></hr>
 
 <h2 id="principle" style="color:#00bcd4;">设计原则</h2>
 
