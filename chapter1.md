@@ -17,6 +17,8 @@
 
 阴影是由相互重叠的材质间的高差产生的
 
+<hr style="height:1px; background-color: #fff; margin-bottom: 50px;"></hr>
+
 <blockquote style="color:#00bcd4;border-left: 4px solid #00bcd4;margin: 30px 0;">
 <h4><a href="#3d">3D世界</a></h4>
 <h4><a href="#lshadow">光与影</a></h4>
@@ -29,6 +31,8 @@
 材质（material）对象所处的环境是一个3D空间，这意味着所有对象都具有x，y，z三个维度。z轴与显示平面相垂直，并向用户视角延伸。每个材质元素在z轴上占据一个位置且厚度为1dp。
 
 在网页中，z轴被用来进行层次的表达而非透视关系的表述。我们通过对y轴的操作来模拟3D世界。
+
+<hr style="height:1px; background-color: #fff; margin-bottom: 50px;"></hr>
 
 <h2 id="lshadow" style="color: #00bcd4">光与影</h2>
 
