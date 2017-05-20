@@ -38,14 +38,14 @@
 材质拥有不同的x，y轴(宽高)尺寸及均匀的厚度（单位为1dp）
 
 <section style="margin-bottom: 30px">
-<figure style="width: 40%;display: inline-block;margin-right: 20px;">
+<figure style="width: 43%;display: inline-block;margin-right: 30px;">
 	<div><img src="assets/whatismaterial_materialproperties_physicalproperties_thickness_01_yes.png" alt=""></div>
 	<figcaption style="border-top:15px solid #4caf50;padding: 10px;margin-top:10px">
 	<p style="color: #2e7b32;margin-bottom: 0.3em;">正确</p>
 	<p>材质的宽高可以不同</p>
 	</figcaption>
 </figure>
-<figure style="width: 40%;display: inline-block;">
+<figure style="width: 43%;display: inline-block;">
 	<div><img src="assets/whatismaterial_materialproperties_physicalproperties_thickness_02_no.png" alt=""></div>
 	<figcaption style="border-top:15px solid #d32f2f;padding: 10px;margin-top:10px">
 	<p style="color: #d32f2f;margin-bottom: 0.3em;">错误</p>
@@ -60,9 +60,9 @@
 
 
 
-<figure>
+<figure style="width: 90%">
 	<div>
-	<video id="whatismaterial-materialprop-physicalprop-020201_PaperShadow_Do_xhdpi_007" width="760" height="360" controls="">
+	<video id="whatismaterial-materialprop-physicalprop-020201_PaperShadow_Do_xhdpi_007" width="100%" height="100%" controls="">
     <source src="//material-design.storage.googleapis.com/publish/v_1/quantumexternal/0B0NGgBg38lWWSE9IaUpqYzlpSW8/whatismaterial-materialprop-physicalprop-020201_PaperShadow_Do_xhdpi_007.webm" type="video/webm">
     <source src="//material-design.storage.googleapis.com/publish/v_1/quantumexternal/0B0NGgBg38lWWRWJfTERvdnM1bGc/whatismaterial-materialprop-physicalprop-020201_PaperShadow_Do_xhdpi_007.mp4" type="video/mp4">
 	</video>
