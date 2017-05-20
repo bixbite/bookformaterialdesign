@@ -2,6 +2,7 @@
 <hr style="height:1px;"></hr>
 
 > 材质(material)具有一些不变的特性和固有的行为
+![](/assets/what_is_material_material_properties.png)
 
 了解这些材质的特性将有助你以符合material design所倡导的方式熟练的使用材质
 
