@@ -1,7 +1,7 @@
 <h1 id="envir" style="color:#00bcd4;margin: 0">Material Design (质感设计) 介绍</h1>
 <hr style="height:1px;"></hr>
 
-<div style="width: 70%"><img src="assets/materialdesign_introduction.png" alt=""></div>
+<div style="width: 90%; margin: 30px 0 15px;"><img src="assets/materialdesign_introduction.png" alt=""></div>
 
 我们挑战自我，为用户创造了一套综合传统经典设计理论与创新科技于一身的设计语言。Material Design, 中文称为质感设计。
 
