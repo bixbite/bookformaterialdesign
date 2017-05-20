@@ -31,3 +31,21 @@
 <h4><a href="#motion">材质的运动</a></h4>
 </blockquote>
 
+<h2 id="physics" style="color: #00bcd4"></h2>
+
+<figure style="width: 40%;display: inline-block;">
+	<div><img src="assets/what_is_material_material_properties.png" alt=""></div>
+	<figcaption>
+	<p>Do.</p>
+	<p>The height and width of material can vary.</p>
+	</figcaption>
+</figure>
+
+<figure style="width: 40%;display: inline-block;">
+	<div><img src="assets/what_is_material_material_properties.png" alt=""></div>
+	<figcaption>
+	<p>Do.</p>
+	<p>The height and width of material can vary.</p>
+	</figcaption>
+</figure>
+
