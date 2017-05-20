@@ -5,7 +5,7 @@
 <p>材质(material)具有一些不变的特性和固有的行为</p>
 </blockquote>
 
-![](/assets/what_is_material_material_properties.png)
+<div style="width: 70%"><img src="assets/what_is_material_material_properties.png" alt=""></div>
 
 了解这些材质的特性将有助你以符合material design所倡导的方式熟练的使用材质
 
