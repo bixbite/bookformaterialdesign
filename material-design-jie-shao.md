@@ -10,7 +10,7 @@
 <h4><a href="#principle">设计原则</a></h4>
 </blockquote>
 
-<h2 id="aim" style="color:#00bcd4">目标</h2>
+<h2 id="aim" style="color:#00bcd4;">目标</h2>
 
 希冀创造出一套将经典的设计原则与创新科技理念融于一身的设计语言
 
@@ -20,7 +20,7 @@
 
 ![](/assets/materialdesign-goals-cutrectangles_large_xhdpi.png)
 
-<h2 id="principle" style="color:#00bcd4">设计原则</h2>
+<h2 id="principle" style="color:#00bcd4;">设计原则</h2>
 
 ![](/assets/materialdesign_principles_metaphor.png)
 
@@ -32,7 +32,7 @@
 
 光线，物体表面的变化及其运动的基本原理是表达物体如何运动，交互方式，空间关系的关键。真实的光效可以展示出物体之间的相互关系，分离关系和如何运动。
 
-<hr style="height:1px; background-color: #fff; margin-bottom: 80px"></hr>
+<hr style="height:1px; background-color: #fff; margin-bottom: 50px;"></hr>
 
 ![](/assets/materialdesign-principles-circleplus_large_xhdpi.png)
 
@@ -42,7 +42,7 @@
 
 Material Design 强调在用户操作过程中核心功能需要立即展现，并为用户提供操作锚点（操作轨迹或导航路径）
 
-<hr style="height:1px; background-color: #fff; margin-bottom: 80px"></hr>
+<hr style="height:1px; background-color: #fff; margin-bottom: 50px;"></hr>
 
 ![](/assets/materialdesign-principles-flyingsquare_large_xhdpi.png)
 
@@ -54,5 +54,5 @@ Material Design 强调在用户操作过程中核心功能需要立即展现，�
 
 动效应该是有意义且恰当的，其目的是为了引起注意并维持系统的连续性体验。动效的反馈应保持精细且清晰（不易太过生硬显著），转场动效应保持高效且连贯。
 
-<h5><a href="#envir" style="position:fixed;right:120px;bottom:30px">回到顶部</a></h5>
+<h5><a href="#envir" style="position:fixed;right:120px;bottom:30px;">回到顶部</a></h5>
 
