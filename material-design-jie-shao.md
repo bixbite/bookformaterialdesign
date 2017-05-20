@@ -10,6 +10,8 @@
 <h4><a href="#principle">设计原则</a></h4>
 </blockquote>
 
+<hr style="height:1px; background-color: #fff; margin-bottom: 50px;"></hr>
+
 <h2 id="aim" style="color:#00bcd4;">目标</h2>
 
 希冀创造出一套将经典的设计原则与创新科技理念融于一身的设计语言
