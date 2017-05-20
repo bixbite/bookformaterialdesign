@@ -88,4 +88,33 @@
 
 内容以不同的形状和颜色显示在材质上，而不会额外增加材质的厚度
 
+<figure style="width: 90%;margin-bottom: 30px">
+	<div>
+	<video id="whatismaterial-materialprop-physicalprop-020201_InkDisplay_xhdpi_005" width="760" height="360" controls="">
+	    <source src="//material-design.storage.googleapis.com/publish/v_1/quantumexternal/0B0NGgBg38lWWTG41Rk9fT19qUXc/whatismaterial-materialprop-physicalprop-020201_InkDisplay_xhdpi_005.webm" type="video/webm">
+	    <source src="//material-design.storage.googleapis.com/publish/v_1/quantumexternal/0B0NGgBg38lWWSGQycHdwcTdyRk0/whatismaterial-materialprop-physicalprop-020201_InkDisplay_xhdpi_005.mp4" type="video/mp4">
+	</video>
+	</div>
+	<figcaption style="border-top:15px solid #4caf50;padding: 10px;margin-top:10px">
+	<p style="color: #2e7b32;margin-bottom: 0.3em;">正确</p>
+	<p>材质可以展示任何形式和色彩</p>
+	</figcaption>
+</figure>
+
+内容可以独立于材质进行展示，但必须在材质范围内
+
+<figure style="width: 90%;margin-bottom: 30px">
+	<div>
+	<video id="whatismaterial-materialprop-physicalprop-020201_InkDisplay_xhdpi_005" width="760" height="360" controls="">
+	    <source src="//material-design.storage.googleapis.com/publish/v_1/quantumexternal/0B0NGgBg38lWWeVBlbExGYjlTeEE/whatismaterial-materialprop-physicalprop-020201_InkBehavior_xhdpi_005.webm" type="video/webm">
+	    <source src="//material-design.storage.googleapis.com/publish/v_1/quantumexternal/0B0NGgBg38lWWeVBlbExGYjlTeEE/whatismaterial-materialprop-physicalprop-020201_InkBehavior_xhdpi_005.mp4" type="video/mp4">
+	</video>
+	</div>
+	<figcaption style="border-top:15px solid #4caf50;padding: 10px;margin-top:10px">
+	<p style="color: #2e7b32;margin-bottom: 0.3em;">正确</p>
+	<p>内容的行为可以独立于材质的行为</p>
+	</figcaption>
+</figure>
+
+
 
