@@ -5,7 +5,7 @@
 <p>质感设计是一个含括光，材质和投影的三维环境</p>
 </blockquote>
 
-<div style="width: 70%"><img src="assets/what_is_material_environment.png" alt=""></div>
+<div style="width: 70% margin-bottom:15px;"><img src="assets/what_is_material_environment.png" alt=""></div>
 
 所有材质（material）对象都具有X,Y,Z三种维度
 
