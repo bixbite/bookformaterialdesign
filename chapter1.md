@@ -16,8 +16,8 @@
 阴影是由相互重叠的材质间的高差产生的
 
 <blockquote style="color:#00bcd4">
-<p><a href="#3d">目标</a></p>
-<p><a href="#lshadow">设计原则</a></p>
+<p><a href="#3d">3D世界</a></p>
+<p><a href="#lshadow">光与影</a></p>
 </blockquote>
 
 <h2 id="3d" style="color: #00bcd4">3D世界</h2>
