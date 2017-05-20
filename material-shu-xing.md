@@ -39,16 +39,16 @@
 
 <figure style="width: 40%;display: inline-block;margin-right: 20px;">
 	<div><img src="assets/what_is_material_material_properties.png" alt=""></div>
-	<figcaption style="border-top:4px solid #green">
-	<p>正确</p>
+	<figcaption style="border-top:15px solid ##4caf50;padding: 10px;margin-top:10px">
+	<p style="color: #2e7b32">正确</p>
 	<p>材质的宽高可以不同</p>
 	</figcaption>
 </figure>
 
 <figure style="width: 40%;display: inline-block;">
 	<div><img src="assets/what_is_material_material_properties.png" alt=""></div>
-	<figcaption style="border-top:4px solid #green">
-	<p>错误</p>
+	<figcaption style="border-top:15px solid ##d32f2f;padding: 10px;margin-top:10px">
+	<p style="color: #d32f2f">错误</p>
 	<p>材质厚度永远是1dp</p>
 	</figcaption>
 </figure>
