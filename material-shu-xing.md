@@ -210,7 +210,6 @@
 	</div>
 	<figcaption style="border-top:15px solid #4caf50;padding: 10px;margin-top:10px">
 	<p style="color: #2e7b32;margin-bottom: 0.3em;">正确</p>
-	<p>材质不能穿过其他材质</p>
 	</figcaption>
 </figure>
 </section>
@@ -227,12 +226,22 @@
 	</div>
 	<figcaption style="border-top:15px solid #d32f2f;padding: 10px;margin-top:10px">
 	<p style="color: #d32f2f;margin-bottom: 0.3em;">错误</p>
-	<p>材质不能穿过其他材质</p>
 	</figcaption>
 </figure>
 </section>
 
+几张材质可以拼合成一张材质
 
+<section style="margin-bottom: 30px">
+<figure style="width: 90%;">
+	<div>
+	<video id="whatismaterial-materialprop-physicalprop-020201_PaperShadow_Do_xhdpi_007" width="100%" height="100%" controls="">
+	<source src="https://storage.googleapis.com/material-design/publish/material_v_11/assets/0B6Okdz75tqQsRjREbXNsZXBrTFU/whatismaterial-materialprop-transformingmaterial-PaperShape_xhdpi_005.webm" type="video/webm">
+	<source src="https://storage.googleapis.com/material-design/publish/material_v_11/assets/0B6Okdz75tqQsMndnRld3dl9nVU0/whatismaterial-materialprop-transformingmaterial-PaperShape_xhdpi_005.mp4" type="video/mp4">
+	</video>
+	</div>
+</figure>
+</section>
 
 
 
