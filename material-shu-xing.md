@@ -215,6 +215,23 @@
 </figure>
 </section>
 
+材质不允许弯曲或折叠
+
+<section style="margin-bottom: 30px">
+<figure style="width: 90%;">
+	<div>
+	<video id="whatismaterial-materialprop-physicalprop-020201_PaperShadow_Do_xhdpi_007" width="100%" height="100%" controls="">
+	<source src="https://storage.googleapis.com/material-design/publish/material_v_11/assets/0B6Okdz75tqQsMXhFNUo2WmJrLWc/whatismaterial-materialprop-transformingmaterial-PaperBendFold_xhdpi_006.webm" type="video/webm">
+	<source src="https://storage.googleapis.com/material-design/publish/material_v_11/assets/0B6Okdz75tqQsM0s0eE5sODFxcnM/whatismaterial-materialprop-transformingmaterial-PaperBendFold_xhdpi_006.mp4" type="video/mp4">
+	</video>
+	</div>
+	<figcaption style="border-top:15px solid #d32f2f;padding: 10px;margin-top:10px">
+	<p style="color: #d32f2f;margin-bottom: 0.3em;">错误</p>
+	<p>材质不能穿过其他材质</p>
+	</figcaption>
+</figure>
+</section>
+
 
 
 
