@@ -5,6 +5,7 @@
 ## 版本
 
 * 0.1 version --- 翻译自Material Design 介绍及环境章节
+* 0.2 version --- 增加material属性章节，及页面样式调整
 
 ## 译者
 
