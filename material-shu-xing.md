@@ -256,6 +256,25 @@
 </figure>
 </section>
 
+<hr style="height:1px; margin-bottom: 50px;"></hr>
+
+<h2 id="motion" style="color: #00bcd4">材质的运动</h2>
+
+材质可以在环境中任何地方自发的产生或消失
+
+<section style="margin-bottom: 30px">
+<figure style="width: 90%;">
+	<div>
+	<video id="whatismaterial-materialprop-physicalprop-020201_PaperShadow_Do_xhdpi_007" width="100%" height="100%" controls="">
+	<source src="https://storage.googleapis.com/material-design/publish/material_v_11/assets/0B6Okdz75tqQseERpUzUxRVRtMGs/whatismaterial-materialprop-movementmaterial-PaperPointExpand_xhdpi_005.webm" type="video/webm">
+	<source src="https://storage.googleapis.com/material-design/publish/material_v_11/assets/0B6Okdz75tqQsTUF0YzJrX0xfWmc/whatismaterial-materialprop-movementmaterial-PaperPointExpand_xhdpi_005.mp4" type="video/mp4">
+	</video>
+	</div>
+</figure>
+</section>
+
+
+
 
 
 
