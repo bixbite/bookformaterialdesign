@@ -118,9 +118,25 @@
 
 材质是实心的
 
-输入事件不能越过材质传递到下面一层
+输入事件不能穿透材质传递到下面一层
 
-<div style="width: 70%"><img src="assets/what_is_material_material_properties.png" alt=""></div>
+<section style="margin-bottom: 30px">
+<figure style="width: 43%;display: inline-block;margin-right: 30px;">
+	<div><img src="assets/whatismaterial_properties_physical3.png" alt=""></div>
+	<figcaption style="border-top:15px solid #4caf50;padding: 10px;margin-top:10px">
+	<p style="color: #2e7b32;margin-bottom: 0.3em;">正确</p>
+	<p>输入事件只能影响上面一层（foreground）的材质</p>
+	</figcaption>
+</figure>
+<figure style="width: 43%;display: inline-block;">
+	<div><img src="assets/whatismaterial_properties_physical4.png" alt=""></div>
+	<figcaption style="border-top:15px solid #d32f2f;padding: 10px;margin-top:10px">
+	<p style="color: #d32f2f;margin-bottom: 0.3em;">错误</p>
+	<p>输入事件不能穿越材质</p>
+	</figcaption>
+</figure>
+</section>
+
 
 
 
