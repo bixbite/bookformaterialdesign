@@ -243,6 +243,21 @@
 </figure>
 </section>
 
+材质会在被分开后再次复原。例如，当你从材质中移去一部分，它还会再次归复完整。
+
+<section style="margin-bottom: 30px">
+<figure style="width: 90%;">
+	<div>
+	<video id="whatismaterial-materialprop-physicalprop-020201_PaperShadow_Do_xhdpi_007" width="100%" height="100%" controls="">
+	<source src="https://storage.googleapis.com/material-design/publish/material_v_11/assets/0B6Okdz75tqQsQV9PS2Q0anFoZzg/whatismaterial-materialprop-transformingmaterial-PaperSplitHeal_xhdpi_005.webm" type="video/webm">
+	<source src="https://storage.googleapis.com/material-design/publish/material_v_11/assets/0B6Okdz75tqQsNlM0eEhPMDFwMlU/whatismaterial-materialprop-transformingmaterial-PaperSplitHeal_xhdpi_005.mp4" type="video/mp4">
+	</video>
+	</div>
+</figure>
+</section>
+
+
+
 
 
 
