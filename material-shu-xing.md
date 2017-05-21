@@ -127,13 +127,6 @@
 	<p>输入事件只能影响上面一层（foreground）的材质</p>
 	</figcaption>
 </figure>
-<figure style="width: 43%;display: inline-block;">
-	<div><img src="assets/whatismaterial_properties_physical4.png" alt=""></div>
-	<figcaption style="border-top:15px solid #d32f2f;padding: 10px;margin-top:10px">
-	<p style="color: #d32f2f;margin-bottom: 0.3em;">错误</p>
-	<p>输入事件不能穿越材质</p>
-	</figcaption>
-</figure>
 
 
 
