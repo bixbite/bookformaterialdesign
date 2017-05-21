@@ -141,7 +141,7 @@
 
 多个材质元素不能同时占据空间上的同一点（x,y,z值相同）
 
-<section>
+<section style="margin-bottom: 30px">
 <figure style="width: 43%;float: left;margin-right: 30px;">
 	<div><img src="assets/whatismaterial_properties_physical3.png" alt=""></div>
 	<figcaption style="border-top:15px solid #4caf50;padding: 10px;margin-top:10px">
