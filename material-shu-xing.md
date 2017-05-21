@@ -181,7 +181,7 @@
 </figure>
 </section>
 
-
+<hr style="height:1px; background-color: #fff; margin-bottom: 50px;"></hr>
 
 
 
