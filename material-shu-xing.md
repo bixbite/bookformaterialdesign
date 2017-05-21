@@ -116,5 +116,12 @@
 	</figcaption>
 </figure>
 
+材质是实心的
+
+输入事件不能越过材质传递到下面一层
+
+<div style="width: 70%"><img src="assets/what_is_material_material_properties.png" alt=""></div>
+
+
 
 
