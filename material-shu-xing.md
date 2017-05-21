@@ -137,6 +137,22 @@
 
 多个材质元素不能同时占据空间上的同一点（x,y,z值相同）
 
+<figure style="width: 43%;display: inline-block;margin-right: 30px;">
+	<div><img src="assets/whatismaterial_properties_physical3.png" alt=""></div>
+	<figcaption style="border-top:15px solid #4caf50;padding: 10px;margin-top:10px">
+	<p style="color: #2e7b32;margin-bottom: 0.3em;">正确</p>
+	<p>为了防止多个材质元素占据空间上同一点，我们使用不同高度加以区分</p>
+	</figcaption>
+</figure>
+<figure style="width: 43%;display: inline-block;margin-right: 30px;">
+	<div><img src="assets/wrong_through_material.png" alt=""></div>
+	<figcaption style="border-top:15px solid #4caf50;padding: 10px;margin-top:10px">
+	<p style="color: #2e7b32;margin-bottom: 0.3em;">错误</p>
+	<p>多个材质元素不能同时占据空间上的同一点</p>
+	</figcaption>
+</figure>
+
+
 
 
 
