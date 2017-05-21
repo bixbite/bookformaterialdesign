@@ -72,7 +72,6 @@
 	<p>不同的阴影形态描绘了材质间的相对高度的变化</p>
 	</figcaption>
 </figure>
-
 <figure style="width: 90%;margin-bottom: 30px">
 	<div>
 <video id="whatismaterial-materialprop-physicalprop-020201_PaperShadow_Dont_xhdpi_007" width="100%" height="100%" controls="">
@@ -89,7 +88,8 @@
 
 内容以不同的形状和颜色显示在材质上，而不会额外增加材质的厚度
 
-<figure style="width: 90%;margin-bottom: 30px">
+<section style="margin-bottom: 30px">
+<figure style="width: 90%;">
 	<div>
 	<video id="whatismaterial-materialprop-physicalprop-020201_InkDisplay_xhdpi_005" width="100%" height="100%" controls="">
 	    <source src="//material-design.storage.googleapis.com/publish/v_1/quantumexternal/0B0NGgBg38lWWTG41Rk9fT19qUXc/whatismaterial-materialprop-physicalprop-020201_InkDisplay_xhdpi_005.webm" type="video/webm">
@@ -101,10 +101,12 @@
 	<p>材质可以展示任何形式和色彩</p>
 	</figcaption>
 </figure>
+</section>
 
 内容可以独立于材质进行展示，但必须在材质范围内
 
-<figure style="width: 90%;margin-bottom: 30px">
+<section style="margin-bottom: 30px">
+<figure style="width: 90%;">
 	<div>
 	<video id="whatismaterial-materialprop-physicalprop-020201_InkDisplay_xhdpi_005" width="100%" height="100%" controls="">
 	    <source src="//material-design.storage.googleapis.com/publish/v_1/quantumexternal/0B0NGgBg38lWWeVBlbExGYjlTeEE/whatismaterial-materialprop-physicalprop-020201_InkBehavior_xhdpi_005.webm" type="video/webm">
@@ -116,6 +118,7 @@
 	<p>内容的行为可以独立于材质的行为</p>
 	</figcaption>
 </figure>
+</section>
 
 材质是实心的
 
@@ -157,6 +160,25 @@
 	</figcaption>
 </figure>
 <div style="clear: both;"></div>
+</section>
+
+材质不能穿过其他材质
+
+举例来说，即使高度发生改变，一张（块）材质也不能穿过另一张材质
+
+<section style="margin-bottom: 30px">
+<figure style="width: 90%;">
+	<div>
+	<video aria-describedby="physical-properties-figure-caption-11" loop="" preload="auto" tabindex="0">
+	<source src="https://storage.googleapis.com/material-design/publish/material_v_11/assets/0B6Okdz75tqQsekRnTGVlVEQzNXc/whatismaterial_properties_physical_07_xhdpi_009.webm" type="video/webm">
+	<source src="https://storage.googleapis.com/material-design/publish/material_v_11/assets/0B6Okdz75tqQsc2VZVUJ5bFNscFU/whatismaterial_properties_physical_07_xhdpi_009.mp4" type="video/mp4">
+	</video>
+	</div>
+	<figcaption style="border-top:15px solid #d32f2f;padding: 10px;margin-top:10px">
+	<p style="color: #d32f2f;margin-bottom: 0.3em;">错误</p>
+	<p>材质不能穿过其他材质</p>
+	</figcaption>
+</figure>
 </section>
 
 
