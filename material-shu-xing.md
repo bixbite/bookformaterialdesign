@@ -181,9 +181,24 @@
 </figure>
 </section>
 
-<hr style="height:1px; background-color: #fff; margin-bottom: 50px;"></hr>
+<hr style="height:1px; margin-bottom: 50px;"></hr>
 
 <h2 id="transform" style="color: #00bcd4">材质的变化</h2>
+
+材质可以改变外观形状
+
+<section style="margin-bottom: 30px">
+<figure style="width: 90%;">
+	<div>
+	<video id="whatismaterial-materialprop-physicalprop-020201_PaperShadow_Do_xhdpi_007" width="100%" height="100%" controls="">
+	<source src="https://storage.googleapis.com/material-design/publish/material_v_11/assets/0B6Okdz75tqQsRjREbXNsZXBrTFU/whatismaterial-materialprop-transformingmaterial-PaperShape_xhdpi_005.webm" type="video/webm">
+	<source src="https://storage.googleapis.com/material-design/publish/material_v_11/assets/0B6Okdz75tqQsMndnRld3dl9nVU0/whatismaterial-materialprop-transformingmaterial-PaperShape_xhdpi_005.mp4" type="video/mp4">
+	</video>
+	</div>
+</figure>
+</section>
+
+
 
 
 
