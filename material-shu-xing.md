@@ -151,8 +151,8 @@
 </figure>
 <figure style="width: 43%;float: left;">
 	<div><img src="assets/wrong_through_material.png" alt=""></div>
-	<figcaption style="border-top:15px solid #4caf50;padding: 10px;margin-top:10px">
-	<p style="color: #2e7b32;margin-bottom: 0.3em;">错误</p>
+	<figcaption style="border-top:15px solid #d32f2f;padding: 10px;margin-top:10px">
+	<p style="color: #d32f2f;margin-bottom: 0.3em;">错误</p>
 	<p>多个材质元素不能同时占据空间上的同一点</p>
 	</figcaption>
 </figure>
