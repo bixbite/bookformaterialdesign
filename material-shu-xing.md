@@ -38,14 +38,14 @@
 材质拥有不同的x，y轴(宽高)尺寸及均匀的厚度（单位为1dp）
 
 <section style="margin-bottom: 30px">
-<figure style="width: 43%;display: inline-block;margin-right: 30px;">
+<figure style="width: 43%;float: left;margin-right: 30px;">
 	<div><img src="assets/whatismaterial_materialproperties_physicalproperties_thickness_01_yes.png" alt=""></div>
 	<figcaption style="border-top:15px solid #4caf50;padding: 10px;margin-top:10px">
 	<p style="color: #2e7b32;margin-bottom: 0.3em;">正确</p>
 	<p>材质的宽高可以不同</p>
 	</figcaption>
 </figure>
-<figure style="width: 43%;display: inline-block;">
+<figure style="width: 43%;">
 	<div><img src="assets/whatismaterial_materialproperties_physicalproperties_thickness_02_no.png" alt=""></div>
 	<figcaption style="border-top:15px solid #d32f2f;padding: 10px;margin-top:10px">
 	<p style="color: #d32f2f;margin-bottom: 0.3em;">错误</p>
@@ -121,14 +121,14 @@
 输入事件不能穿过材质传递到下面一层
 
 <section style="margin-bottom: 30px">
-<figure style="width: 43%;display: inline-block;margin-right: 30px;">
+<figure style="width: 43%;float: left;margin-right: 30px;">
 	<div><img src="assets/whatismaterial_properties_physical3.png" alt=""></div>
 	<figcaption style="border-top:15px solid #4caf50;padding: 10px;margin-top:10px">
 	<p style="color: #2e7b32;margin-bottom: 0.3em;">正确</p>
 	<p>输入事件只能影响上面一层（foreground）的材质</p>
 	</figcaption>
 </figure>
-<figure style="width: 43%;display: inline-block;margin-right: 30px;">
+<figure style="width: 43%;">
 	<div><img src="assets/wrong_through_material.png" alt=""></div>
 	<figcaption style="border-top:15px solid #d32f2f;padding: 10px;margin-top:10px">
 	<p style="color: #d32f2f;margin-bottom: 0.3em;">错误</p>
@@ -138,15 +138,14 @@
 </section>
 
 多个材质元素不能同时占据空间上的同一点（x,y,z值相同）
-
-<figure style="width: 43%;display: inline-block;margin-right: 30px;">
+<figure style="width: 43%;float: left;margin-right: 30px;">
 	<div><img src="assets/whatismaterial_properties_physical3.png" alt=""></div>
 	<figcaption style="border-top:15px solid #4caf50;padding: 10px;margin-top:10px">
 	<p style="color: #2e7b32;margin-bottom: 0.3em;">正确</p>
 	<p>为了防止多个材质元素占据空间上同一点，我们使用不同高度加以区分</p>
 	</figcaption>
 </figure>
-<figure style="width: 43%;display: inline-block;margin-right: 30px;">
+<figure style="width: 43%;">
 	<div><img src="assets/wrong_through_material.png" alt=""></div>
 	<figcaption style="border-top:15px solid #4caf50;padding: 10px;margin-top:10px">
 	<p style="color: #2e7b32;margin-bottom: 0.3em;">错误</p>
