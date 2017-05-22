@@ -13,3 +13,4 @@ Material Design 通过创造一个用户熟悉的空间模型来展示这些特�
 
 高度是指表面之间的距离和其阴影的深度,它衡量的是一个材质的上表面与另一个材质的上表面之间的垂直距离。
 
+<div style="width: 60%"><img src="assets/what_is_material_elevation_and_shadows.png" alt=""></div>
