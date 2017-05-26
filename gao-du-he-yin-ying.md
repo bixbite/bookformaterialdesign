@@ -27,7 +27,12 @@ Material Design 通过创造一个用户熟悉的空间模型来展示这些特�
 
 <blockquote style="color:#00bcd4;border-left: 4px solid #00bcd4;margin: 30px 0;">
 <p style="color:#757575">内容</p>
-<h4><a href="#aim">高度</a></h4>
-<h4><a href="#aim">阴影</a></h4>
-<h4><a href="#principle">对象关系</a></h4>
+<h4><a href="#elevation">高度</a></h4>
+<h4><a href="#shadow">阴影</a></h4>
+<h4><a href="#OBrelationship">对象关系</a></h4>
 </blockquote>
+
+<h2 id="elevation" style="color:#00bcd4;">高度</h2>
+
+高度是指材质间的相对纵深，即沿z轴方向两表面间的距离
+
