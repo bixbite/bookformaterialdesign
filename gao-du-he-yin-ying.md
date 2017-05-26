@@ -42,7 +42,7 @@ Material Design 通过创造一个用户熟悉的空间模型来展示这些特�
 
 * 一个子对象的高度和其父对象的高度相关
 
-<div style="width: 60%"><img src="assets/whatismaterial_3d_elevation1.png" alt=""></div>
+<div style="width: 80%"><img src="assets/whatismaterial_3d_elevation1.png" alt=""></div>
 
 
 
