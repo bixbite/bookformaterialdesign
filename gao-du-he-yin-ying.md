@@ -14,3 +14,11 @@ Material Design 通过创造一个用户熟悉的空间模型来展示这些特�
 高度是指表面之间的距离和其阴影的深度,它衡量的是一个材质的上表面与另一个材质的上表面之间的垂直距离。
 
 <div style="width: 60%"><img src="assets/what_is_material_elevation_and_shadows.png" alt=""></div>
+
+<h4 style="color:#00bcd4">静态高度</h4>
+
+所有材质都具有静止高度（未具交互状态时的初始高度）。尽管组件在程序之间有着相同的静止高度，然而不同设备和平台间可能具有不同的静止高度。
+
+<h4 style="color:#00bcd4">动态高度偏移</h4>
+
+动态高度偏移是组件相对于静止状态移动的目标高度。
