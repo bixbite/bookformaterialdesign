@@ -167,14 +167,29 @@ Material Design 通过创造一个用户熟悉的空间模型来展示这些特�
 </section>
 
 <h4 style="color:#00bcd4">元素参考阴影</h4>
-
+<!-- app bar-->
 <section style="margin-bottom: 30px">
-<div style="width: 35%;float: left;margin-right: 30px;">
+<div style="width: 35%;float: left;margin-right: 20px;">
 	<p><strong>应用bar</strong></p>
 	<p>4dp</p>
 </div>
 <figure style="width: 60%;float: left;">
 	<div><img src="assets/whatismaterial_3d_elevation_component06.png" alt=""></div>
+</figure>
+<div style="clear: both;"></div>
+</section>
+<!-- Raised button-->
+<section style="margin-bottom: 30px">
+<div style="width: 35%;float: left;margin-right: 20px;">
+	<p><strong>浮雕按钮</strong></p>
+	<p>静态：2dp</p>
+	<p>点击：8dp</p>
+	<p>对于桌面程序</p>
+	<p>静态：0dp</p>
+	<p>点击：2dp</p>
+</div>
+<figure style="width: 60%;float: left;">
+	<div><img src="assets/whatismaterial_3d_elevation_component02.png" alt=""></div>
 </figure>
 <div style="clear: both;"></div>
 </section>
