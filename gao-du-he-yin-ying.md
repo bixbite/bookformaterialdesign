@@ -98,19 +98,46 @@ Material Design 通过创造一个用户熟悉的空间模型来展示这些特�
 
 下图展示了组件静态高度和动态高度偏移
 
-<div style="width:80%; margin-bottom: 30px;"><img src="assets/whatismaterial_3d_elevation2.png" alt=""></div>
+<div style="margin-bottom: 30px;"><img src="assets/whatismaterial_3d_elevation2.png" alt=""></div>
 
 该图显示了一个拥有卡片和浮动操作按钮的应用布局，以及沿其z轴的组件高度的横截面
 
-<div style="width: 80%;margin-bottom: 30px;"><img src="assets/whatismaterial_3d_elevation3.png" alt=""></div>
+<div style="margin-bottom: 30px;"><img src="assets/whatismaterial_3d_elevation3.png" alt=""></div>
 
 该图显示了一个具有抽屉导航的应用布局，以及沿其z轴的组件高度横截面
 
-<div style="width: 80%;margin-bottom: 30px;"><img src="assets/whatismaterial_3d_elevation4.png" alt=""></div>
+<div style="margin-bottom: 30px;"><img src="assets/whatismaterial_3d_elevation4.png" alt=""></div>
 
-<hr style="height:1px; background-color: #fff; margin-bottom: 50px;"></hr>
+<hr style="height:1px;"></hr>
 
+<h2 id="shadow" style="color:#00bcd4;">阴影</h2>
 
+阴影提供了关于物体深度和运动方向的重要视觉线索。它们是表明对象表面之间的间距值的唯一视觉线索。一个对象的高度决定了其阴影如何呈现。
+
+<section style="margin-bottom: 30px">
+<figure style="width: 43%;float: left;">
+	<div><img src="assets/whatismaterial_3d_elevation_shadow1.png" alt=""></div>
+	<figcaption style="border-top:15px solid #d32f2f;padding: 10px;margin-top:10px">
+	<p style="color: #d32f2f;margin-bottom: 0.3em;">错误</p>
+	<p>如果没有阴影，就无法表明浮动操作按钮是与背景表面相分离的</p>
+	</figcaption>
+</figure>
+<figure style="width: 43%;float: left;">
+	<div><img src="assets/whatismaterial_3d_elevation_shadow2.png" alt=""></div>
+	<figcaption style="border-top:15px solid #d32f2f;padding: 10px;margin-top:10px">
+	<p style="color: #d32f2f;margin-bottom: 0.3em;">错误</p>
+	<p>清晰且生硬的阴影表面按钮与蓝色色块是相分离的元素。但是，它们的阴影过于接近以至于会认为按钮和色块处于同一的高度。</p>
+	</figcaption>
+</figure>
+<figure style="width: 43%;float: left;margin-right: 30px;">
+	<div><img src="assets/whatismaterial_3d_elevation_shadow3.png" alt=""></div>
+	<figcaption style="border-top:15px solid #4caf50;padding: 10px;margin-top:10px">
+	<p style="color: #2e7b32;margin-bottom: 0.3em;">正确</p>
+	<p>柔和且较大的阴影表明浮动按钮比蓝色色块具有更高的高度</p>
+	</figcaption>
+</figure>
+<div style="clear: both;"></div>
+</section>
 
 
 
