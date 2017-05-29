@@ -115,21 +115,21 @@ Material Design 通过创造一个用户熟悉的空间模型来展示这些特�
 阴影提供了关于物体深度和运动方向的重要视觉线索。它们是表明对象表面之间的间距值的唯一视觉线索。一个对象的高度决定了其阴影如何呈现。
 
 <section style="margin-bottom: 30px">
-<figure style="width: 43%;float: left;">
+<figure style="width: 30%;float: left;margin-right: 20px;">
 	<div><img src="assets/whatismaterial_3d_elevation_shadow1.png" alt=""></div>
 	<figcaption style="border-top:15px solid #d32f2f;padding: 10px;margin-top:10px">
 	<p style="color: #d32f2f;margin-bottom: 0.3em;">错误</p>
 	<p>如果没有阴影，就无法表明浮动操作按钮是与背景表面相分离的</p>
 	</figcaption>
 </figure>
-<figure style="width: 43%;float: left;">
+<figure style="width: 30%;float: left;margin-right: 20px;">
 	<div><img src="assets/whatismaterial_3d_elevation_shadow2.png" alt=""></div>
 	<figcaption style="border-top:15px solid #d32f2f;padding: 10px;margin-top:10px">
 	<p style="color: #d32f2f;margin-bottom: 0.3em;">错误</p>
 	<p>清晰且生硬的阴影表面按钮与蓝色色块是相分离的元素。但是，它们的阴影过于接近以至于会认为按钮和色块处于同一的高度。</p>
 	</figcaption>
 </figure>
-<figure style="width: 43%;float: left;margin-right: 30px;">
+<figure style="width: 30%;float: left;margin-right: 20px;">
 	<div><img src="assets/whatismaterial_3d_elevation_shadow3.png" alt=""></div>
 	<figcaption style="border-top:15px solid #4caf50;padding: 10px;margin-top:10px">
 	<p style="color: #2e7b32;margin-bottom: 0.3em;">正确</p>
@@ -142,21 +142,21 @@ Material Design 通过创造一个用户熟悉的空间模型来展示这些特�
 在运动中，阴影也提供了关于对象运动方向的有用线索，同时能反映出物体表面间的距离是增加或是减少。
 
 <section style="margin-bottom: 30px">
-<figure style="width: 43%;float: left;">
+<figure style="width: 30%;float: left;margin-right: 20px;">
 	<div><img src="assets/whatismaterial_3d_elevation_shadow4.png" alt=""></div>
 	<figcaption style="border-top:15px solid #d32f2f;padding: 10px;margin-top:10px">
 	<p style="color: #d32f2f;margin-bottom: 0.3em;">错误</p>
 	<p>没有阴影表示高度，我们无法获知当前矩形是大小尺寸增加还是高度增加。</p>
 	</figcaption>
 </figure>
-<figure style="width: 43%;float: left;margin-right: 30px;">
+<figure style="width: 30%;float: left;margin-right: 20px;">
 	<div><img src="assets/whatismaterial_3d_elevation_shadow5.png" alt=""></div>
 	<figcaption style="border-top:15px solid #4caf50;padding: 10px;margin-top:10px">
 	<p style="color: #2e7b32;margin-bottom: 0.3em;">正确</p>
 	<p>当物体的高度增加时其阴影会变得更大更柔和，反之阴影将会变小且清晰生硬。</p>
 	</figcaption>
 </figure>
-<figure style="width: 43%;float: left;margin-right: 30px;">
+<figure style="width: 30%;float: left;margin-right: 20px;">
 	<div><img src="assets/whatismaterial_3d_elevation_shadow6.png" alt=""></div>
 	<figcaption style="border-top:15px solid #4caf50;padding: 10px;margin-top:10px">
 	<p style="color: #2e7b32;margin-bottom: 0.3em;">正确</p>
@@ -169,16 +169,12 @@ Material Design 通过创造一个用户熟悉的空间模型来展示这些特�
 <h4 style="color:#00bcd4">元素参考阴影</h4>
 
 <section style="margin-bottom: 30px">
-<div style="width: 48%;float: left;margin-right: 30px;">
+<div style="width: 35%;float: left;margin-right: 30px;">
 	<p><strong>应用bar</strong></p>
 	<p>4dp</p>
 </div>
-<figure style="width: 48%;float: left;margin-right: 30px;">
-	<div><img src="assets/whatismaterial_3d_elevation_shadow6.png" alt=""></div>
-	<figcaption style="border-top:15px solid #4caf50;padding: 10px;margin-top:10px">
-	<p style="color: #2e7b32;margin-bottom: 0.3em;">正确</p>
-	<p>在这种情况下，一致的阴影帮助用户了解当前对象是形状发生变化而非高度改变。</p>
-	</figcaption>
+<figure style="width: 60%;float: left;">
+	<div><img src="assets/whatismaterial_3d_elevation_component06.png" alt=""></div>
 </figure>
 <div style="clear: both;"></div>
 </section>
