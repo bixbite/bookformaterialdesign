@@ -42,13 +42,33 @@ Material Design 通过创造一个用户熟悉的空间模型来展示这些特�
 
 * 一个子对象的高度和其父对象的高度相关
 
-<div style="width: 70%"><img src="assets/whatismaterial_3d_elevation1.png" alt=""></div>
+<div style="width: 60%"><img src="assets/whatismaterial_3d_elevation1.png" alt=""></div>
 
 该图反映了两个材质间的多倍高度
 
 <h4 style="color:#00bcd4">静态高度</h4>
 
 所有材质对象不论大小都具有一个静态高度，或者称之为“默认高度”。静态高度不会发生改变。当材质对象高度发生改变，应该尽快恢复到原先的静态高度。
+
+<div class="module">
+	<table class="s-tag-table">
+		<tbody>
+		<tr><td colspan="1" rowspan="1"><p>Elevation (dp)</p></td><td colspan="1" rowspan="1"><p>Component</p></td></tr>
+		<tr><td colspan="1" rowspan="1"><p>24</p></td><td colspan="1" rowspan="1"><p>Dialog</p><p>Picker</p></td></tr>
+		<tr><td colspan="1" rowspan="1"><p>16</p></td><td colspan="1" rowspan="1"><p>Nav drawer </p><p>Right drawer</p><p>Modal bottom Sheet</p></td></tr>
+		<tr><td colspan="1" rowspan="1"><p>12</p></td><td colspan="1" rowspan="1"><p>Floating action button (FAB - pressed)</p></td></tr>
+		<tr><td colspan="1" rowspan="1"><p>9</p></td><td colspan="1" rowspan="1"><p>Sub menu (+1dp for each sub menu)</p></td></tr>
+		<tr><td colspan="1" rowspan="1"><p>8</p></td><td colspan="1" rowspan="1"><p>Bottom navigation bar</p><p>Menu</p><p>Card (when picked up) </p><p>Raised button (pressed state)</p></td></tr>
+		<tr><td colspan="1" rowspan="1"><p>6</p></td><td colspan="1" rowspan="1"><p>Floating action button (FAB - resting elevation)</p><p>Snackbar</p></td></tr>
+		<tr><td colspan="1" rowspan="1"><p>4</p></td><td colspan="1" rowspan="1"><p>App Bar</p></td></tr>
+		<tr><td colspan="1" rowspan="1"><p>3</p></td><td colspan="1" rowspan="1"><p>Refresh indicator</p><p>Quick entry / Search bar (scrolled state)</p></td></tr>
+		<tr><td colspan="1" rowspan="1"><p>2</p></td><td colspan="1" rowspan="1"><p>Card (resting elevation) *</p><p>Raised button (resting elevation)*</p><p>Quick entry / Search bar (resting elevation)</p></td></tr>
+		<tr><td colspan="1" rowspan="1"><p>1</p></td><td colspan="1" rowspan="1"><p>Switch</p></td></tr>
+		</tbody>
+	</table>
+</div>
+
+<h4 style="color:#00bcd4">组件高度</h4>
 
 
 
