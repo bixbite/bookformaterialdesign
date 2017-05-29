@@ -285,7 +285,28 @@ Material Design 通过创造一个用户熟悉的空间模型来展示这些特�
 </figure>
 <div style="clear: both;"></div>
 </section>
-
+<!-- snackbar -->
+<section style="margin-bottom: 30px">
+<div style="width: 20%;float: left;margin-right: 20px;">
+	<p><strong>Snack bar</strong></p>
+	<p>6dp</p>
+</div>
+<figure style="width: 75%;float: left;">
+	<div><img src="assets/whatismaterial_3d_elevation_component07.png" alt=""></div>
+</figure>
+<div style="clear: both;"></div>
+</section>
+<!-- Switch -->
+<section style="margin-bottom: 30px">
+<div style="width: 20%;float: left;margin-right: 20px;">
+	<p><strong>切换按钮</strong></p>
+	<p>1dp</p>
+</div>
+<figure style="width: 75%;float: left;">
+	<div><img src="assets/whatismaterial_3d_elevation_component01.png" alt=""></div>
+</figure>
+<div style="clear: both;"></div>
+</section>
 
 
 
