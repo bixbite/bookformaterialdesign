@@ -308,9 +308,7 @@ Material Design 通过创造一个用户熟悉的空间模型来展示这些特�
 <div style="clear: both;"></div>
 </section>
 <hr style="height:1px; margin-bottom: 50px;"></hr>
-
 <h2 id="OBrelationship" style="color:#00bcd4;">对象关系</h2>
-
 <h4 style="color:#00bcd4">对象层级关系</h4>
 
 在app中如何组织和集合对象决定着对象间如何相对运动。对象可以独立于其它独立运动，也可被层级更高的对象所约束。
@@ -334,6 +332,26 @@ Material Design 通过创造一个用户熟悉的空间模型来展示这些特�
 3. 子元素从它的父元素继承了与形状相关的属性，例如位置，旋转，大小和高度
 4. 兄弟关系是指处于同一层级间的对象关系
 </div>
+<hr style="height:1px; background-color: #fff; margin-bottom: 50px;"></hr>
+
+<h4 style="color:#00bcd4">例外</h4>
+
+对象如果父级元素是根元素的话，如主UI元素，它将独立于其它元素自主运动。例如，浮动操作按钮就不会随着内容滚动而滚动。此类元素还包括：
+1. 抽屉导航
+2. 行动条
+3. 对话框
+
+<section style="margin-bottom: 30px">
+<figure style="width: 90%;">
+	<div>
+	<video id="whatismaterial-materialprop-physicalprop-020201_PaperShadow_Do_xhdpi_007" width="100%" height="100%" controls="">
+	<source src="https://storage.googleapis.com/material-design/publish/material_v_11/assets/0B6Okdz75tqQsbHQ3X1ZoVXY3NjQ/WhatIsMaterial_ObjectsIn3DSpace_ObjectRelationships_01_RaisedChildButton_001.webm" type="video/webm">
+	<source src="https://storage.googleapis.com/material-design/publish/material_v_11/assets/0B6Okdz75tqQscFRYQjBFSm9jRGM/WhatIsMaterial_ObjectsIn3DSpace_ObjectRelationships_01_RaisedChildButton_001.mp4" type="video/mp4">
+	</video>
+	</div>
+</figure>
+</section>
+
 
 
 
