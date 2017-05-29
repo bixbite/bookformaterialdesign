@@ -309,6 +309,32 @@ Material Design 通过创造一个用户熟悉的空间模型来展示这些特�
 </section>
 <hr style="height:1px; margin-bottom: 50px;"></hr>
 
+<h2 id="OBrelationship" style="color:#00bcd4;">对象关系</h2>
+
+<h4 style="color:#00bcd4">对象层级关系</h4>
+
+在app中如何组织和集合对象决定着对象间如何相对运动。对象可以独立于其它独立运动，也可被层级更高的对象所约束。
+
+所有的对象都是根据父子关系所描述的层级结构的一部分。子级指的该元素附属于其父元素。对象可以同时是系统或其它对象的字元素。
+
+<section style="margin-bottom: 30px">
+<figure style="width: 90%;">
+	<div>
+	<video id="whatismaterial-materialprop-physicalprop-020201_PaperShadow_Do_xhdpi_007" width="100%" height="100%" controls="">
+	<source src="https://storage.googleapis.com/material-design/publish/material_v_11/assets/0B6Okdz75tqQsbHQ3X1ZoVXY3NjQ/WhatIsMaterial_ObjectsIn3DSpace_ObjectRelationships_01_RaisedChildButton_001.webm" type="video/webm">
+	<source src="https://storage.googleapis.com/material-design/publish/material_v_11/assets/0B6Okdz75tqQscFRYQjBFSm9jRGM/WhatIsMaterial_ObjectsIn3DSpace_ObjectRelationships_01_RaisedChildButton_001.mp4" type="video/mp4">
+	</video>
+	</div>
+</figure>
+
+父子关系说明：
+1. 每个对象只能有一个父级元素
+2. 每个对象可以有多个子元素
+3. 子元素从它的父元素继承了与形状相关的属性，例如位置，旋转，大小和高度
+4. 兄弟关系是指处于同一层级间的对象关系
+
+</section>
+
 
 
 
