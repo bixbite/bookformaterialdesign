@@ -42,9 +42,11 @@ Material Design 通过创造一个用户熟悉的空间模型来展示这些特�
 
 * 一个子对象的高度和其父对象的高度相关
 
-<div style="width: 60%"><img src="assets/whatismaterial_3d_elevation1.png" alt=""></div>
+<div style="width: 80%"><img src="assets/whatismaterial_3d_elevation1.png" alt=""></div>
 
 该图反映了两个材质间的多倍高度
+
+<hr style="height:1px; background-color: #fff; margin-bottom: 50px;"></hr>
 
 <h4 style="color:#00bcd4">静态高度</h4>
 
@@ -88,7 +90,26 @@ Material Design 通过创造一个用户熟悉的空间模型来展示这些特�
 
 在组件层面上，组件可以在其导致干扰之间移动或移除。例如，一个浮动操作按钮可以在用户选择一个卡片时消失或移除屏幕，或是移动到snackbar上。
 
-在整体布局层面上，在设计应用时应该尽量减少干扰的机会。例如将浮动操作按钮放置在一连串卡片的一侧，这样的话当用户拿起一张卡片时，按钮就不会受到干扰。
+在整体布局层面上，在设计应用时应该尽量减少干扰的机会。例如将浮动操作按钮放置在一连串卡片的一侧，这样的话当用户选择一张卡片时，按钮就不会受到干扰。
+
+<hr style="height:1px; background-color: #fff; margin-bottom: 50px;"></hr>
+
+<h4 style="color:#00bcd4">组件高度对比</h4>
+
+下图展示了组件静态高度和动态高度偏移
+
+<div style="width: 80%；margin-bottom:30px"><img src="assets/whatismaterial_3d_elevation2.png" alt=""></div>
+
+该图显示了一个拥有卡片和浮动操作按钮的应用布局，以及沿其z轴的组件高度的横截面
+
+<div style="width: 80%；margin-bottom:30px"><img src="assets/whatismaterial_3d_elevation3.png" alt=""></div>
+
+
+
+
+
+
+
 
 
 
