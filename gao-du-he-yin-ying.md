@@ -166,7 +166,7 @@ Material Design 通过创造一个用户熟悉的空间模型来展示这些特�
 <div style="clear: both;"></div>
 </section>
 
-<h4 style="color:#00bcd4">元素参考阴影</h4>
+<h4 style="color:#00bcd4">元素阴影参考</h4>
 <!-- app bar-->
 <section style="margin-bottom: 30px">
 <div style="width: 20%;float: left;margin-right: 20px;">
@@ -205,6 +205,87 @@ Material Design 通过创造一个用户熟悉的空间模型来展示这些特�
 </figure>
 <div style="clear: both;"></div>
 </section>
+<!-- card-->
+<section style="margin-bottom: 30px">
+<div style="width: 20%;float: left;margin-right: 20px;">
+	<p><strong>卡片组件</strong></p>
+	<p>静态：2dp</p>
+	<p>点击：8dp</p>
+</div>
+<figure style="width: 75%;float: left;">
+	<div><img src="assets/whatismaterial_3d_elevation_component03.png" alt=""></div>
+</figure>
+<div style="clear: both;"></div>
+</section>
+<!-- menu-->
+<section style="margin-bottom: 30px">
+<div style="width: 20%;float: left;margin-right: 20px;">
+	<p><strong>菜单和子菜单</strong></p>
+	<p>菜单：8dp</p>
+	<p>子菜单：9dp （每增加一级子菜单，增加1dp的阴影）</p>
+</div>
+<figure style="width: 75%;float: left;">
+	<div><img src="assets/whatismaterial_3d_elevation_component09.png" alt=""></div>
+</figure>
+<div style="clear: both;"></div>
+</section>
+<!-- dialog-->
+<section style="margin-bottom: 30px">
+<div style="width: 20%;float: left;margin-right: 20px;">
+	<p><strong>对话框</strong></p>
+	<p>24dp</p>
+</div>
+<figure style="width: 75%;float: left;">
+	<div><img src="assets/whatismaterial_3d_elevation_component12.png" alt=""></div>
+</figure>
+<div style="clear: both;"></div>
+</section>
+<!-- nav drawer-->
+<section style="margin-bottom: 30px">
+<div style="width: 20%;float: left;margin-right: 20px;">
+	<p><strong>抽屉导航和右侧抽屉导航</strong></p>
+	<p>16dp</p>
+</div>
+<figure style="width: 75%;float: left;">
+	<div><img src="assets/whatismaterial_3d_elevation_component10.png" alt=""></div>
+</figure>
+<div style="clear: both;"></div>
+</section>
+<!-- Modal bottom sheet -->
+<section style="margin-bottom: 30px">
+<div style="width: 20%;float: left;margin-right: 20px;">
+	<p><strong>Modal bottom sheet</strong></p>
+	<p>16dp</p>
+</div>
+<figure style="width: 75%;float: left;">
+	<div><img src="assets/whatismaterial_3d_elevation_component11.png" alt=""></div>
+</figure>
+<div style="clear: both;"></div>
+</section>
+<!-- Refresh -->
+<section style="margin-bottom: 30px">
+<div style="width: 20%;float: left;margin-right: 20px;">
+	<p><strong>刷新按钮</strong></p>
+	<p>3dp</p>
+</div>
+<figure style="width: 75%;float: left;">
+	<div><img src="assets/whatismaterial_3d_elevation_component05.png" alt=""></div>
+</figure>
+<div style="clear: both;"></div>
+</section>
+<!-- search -->
+<section style="margin-bottom: 30px">
+<div style="width: 20%;float: left;margin-right: 20px;">
+	<p><strong>快速查询／搜索条</strong></p>
+	<p>静态：2dp</p>
+	<p>滚动：3dp</p>
+</div>
+<figure style="width: 75%;float: left;">
+	<div><img src="assets/whatismaterial_3d_elevation_component04.png" alt=""></div>
+</figure>
+<div style="clear: both;"></div>
+</section>
+
 
 
 
