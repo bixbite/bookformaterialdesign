@@ -139,6 +139,36 @@ Material Design 通过创造一个用户熟悉的空间模型来展示这些特�
 <div style="clear: both;"></div>
 </section>
 
+在运动中，阴影也提供了关于对象运动方向的有用线索，同时能反映出物体表面间的距离是增加或是减少。
+
+<section style="margin-bottom: 30px">
+<figure style="width: 43%;float: left;">
+	<div><img src="assets/whatismaterial_3d_elevation_shadow4.png" alt=""></div>
+	<figcaption style="border-top:15px solid #d32f2f;padding: 10px;margin-top:10px">
+	<p style="color: #d32f2f;margin-bottom: 0.3em;">错误</p>
+	<p>没有阴影表示高度，我们无法获知当前矩形是大小尺寸增加还是高度增加。</p>
+	</figcaption>
+</figure>
+<figure style="width: 43%;float: left;margin-right: 30px;">
+	<div><img src="assets/whatismaterial_3d_elevation_shadow5.png" alt=""></div>
+	<figcaption style="border-top:15px solid #4caf50;padding: 10px;margin-top:10px">
+	<p style="color: #2e7b32;margin-bottom: 0.3em;">正确</p>
+	<p>当物体的高度增加时其阴影会变得更大更柔和，反之阴影将会变小且清晰生硬。</p>
+	</figcaption>
+</figure>
+<figure style="width: 43%;float: left;margin-right: 30px;">
+	<div><img src="assets/whatismaterial_3d_elevation_shadow6.png" alt=""></div>
+	<figcaption style="border-top:15px solid #4caf50;padding: 10px;margin-top:10px">
+	<p style="color: #2e7b32;margin-bottom: 0.3em;">正确</p>
+	<p>在这种情况下，一致的阴影帮助用户了解当前对象是形状发生变化而非高度改变。</p>
+	</figcaption>
+</figure>
+<div style="clear: both;"></div>
+</section>
+
+<h4 style="color:#00bcd4">元素参考阴影</h4>
+
+
 
 
 
