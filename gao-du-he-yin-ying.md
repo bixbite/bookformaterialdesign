@@ -168,7 +168,20 @@ Material Design 通过创造一个用户熟悉的空间模型来展示这些特�
 
 <h4 style="color:#00bcd4">元素参考阴影</h4>
 
-
+<section style="margin-bottom: 30px">
+<div style="width: 48%;float: left;margin-right: 30px;">
+	<p><strong>应用bar</strong></p>
+	<p>4dp</p>
+</div>
+<figure style="width: 48%;float: left;margin-right: 30px;">
+	<div><img src="assets/whatismaterial_3d_elevation_shadow6.png" alt=""></div>
+	<figcaption style="border-top:15px solid #4caf50;padding: 10px;margin-top:10px">
+	<p style="color: #2e7b32;margin-bottom: 0.3em;">正确</p>
+	<p>在这种情况下，一致的阴影帮助用户了解当前对象是形状发生变化而非高度改变。</p>
+	</figcaption>
+</figure>
+<div style="clear: both;"></div>
+</section>
 
 
 
