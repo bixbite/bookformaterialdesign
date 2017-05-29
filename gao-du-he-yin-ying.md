@@ -201,7 +201,7 @@ Material Design 通过创造一个用户熟悉的空间模型来展示这些特�
 	<p>点击：12dp</p>
 </div>
 <figure style="width: 75%;float: left;">
-	<div><img src="assets/whatismaterial_3d_elevation_component02.png" alt=""></div>
+	<div><img src="assets/whatismaterial_3d_elevation_component08.png" alt=""></div>
 </figure>
 <div style="clear: both;"></div>
 </section>
