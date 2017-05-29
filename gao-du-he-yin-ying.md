@@ -104,8 +104,11 @@ Material Design 通过创造一个用户熟悉的空间模型来展示这些特�
 
 <div style="width: 80%；margin-bottom:30px"><img src="assets/whatismaterial_3d_elevation3.png" alt=""></div>
 
+该图显示了一个具有抽屉导航的应用布局，以及沿其z轴的组件高度横截面
 
+<div style="width: 80%；margin-bottom:30px"><img src="assets/whatismaterial_3d_elevation4.png" alt=""></div>
 
+<hr style="height:1px; background-color: #fff; margin-bottom: 50px;"></hr>
 
 
 
