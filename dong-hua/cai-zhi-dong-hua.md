@@ -58,4 +58,31 @@
 	</video>
 	</div>
 </figure>
+<figcaption>较大的动画时长应保持在300-400ms，较小的保持在150-200ms。大于或小于这些时长的动画可能会让人感到迟钝或目光难以追踪。</figcaption>
+</section>
+
+<section style="margin-bottom: 30px">
+<figure style="width: 45%;float: left;margin-right: 20px;">
+	<div>
+	<video loop="" preload="auto" tabindex="0" width="100%" height="100%" controls="">
+	<source src="https://storage.googleapis.com/material-design/publish/material_v_11/assets/0B14F_FSUCc01aGFDUmZwNG1sTTQ/Responsive_02_Feedback-v2.webm" type="video/webm">
+	<source src="https://storage.googleapis.com/material-design/publish/material_v_11/assets/0B14F_FSUCc01YVB4OXVzV3NQR3M/Responsive_02_Feedback-v2.mp4" type="video/mp4">
+	</video>
+	</div>
+	<figcaption style="border-top:15px solid #d32f2f;padding: 10px;margin-top:10px">
+	<p>该动画通过立即从触碰点向外扩散的墨水晕染效果来确认用户的输入。浮起的卡片组件表面当前处于组件激活状态。</p>
+	</figcaption>
+</figure>
+<figure style="width: 45%;float: left;margin-right: 20px;">
+	<div>
+	<video loop="" preload="auto" tabindex="0" width="100%" height="100%" controls="">
+	<source src="https://storage.googleapis.com/material-design/publish/material_v_11/assets/0B14F_FSUCc01RkRSNjBMbGU2UHM/Responsive_03_SurfaceConnection-v3.webm" type="video/webm">
+	<source src="https://storage.googleapis.com/material-design/publish/material_v_11/assets/0B14F_FSUCc01MkJzdEZuY0E5YXM/Responsive_03_SurfaceConnection-v3.mp4" type="video/mp4">
+	</video>
+	</div>
+	<figcaption style="border-top:15px solid #d32f2f;padding: 10px;margin-top:10px">
+	<p>该动画显示了新创建的组件平面如何与创建它的元素或动作进行衔接。</p>
+	</figcaption>
+</figure>
+<div style="clear: both;"></div>
 </section>
