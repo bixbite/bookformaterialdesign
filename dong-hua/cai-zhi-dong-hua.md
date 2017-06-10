@@ -8,7 +8,7 @@
 <section style="margin-bottom: 30px">
 <figure style="width: 90%;">
 	<div>
-	<video loop="" preload="auto" tabindex="0">
+	<video loop="" preload="auto" tabindex="0" width="100%" height="100%" controls="">
 	<source src="https://storage.googleapis.com/material-design/publish/material_v_11/assets/0B14F_FSUCc01VDAtSVF3X0F5VTg/MaterialMotionHero_Spec_0505.webm" type="video/webm"></source>
 	<source src="https://storage.googleapis.com/material-design/publish/material_v_11/assets/0B14F_FSUCc01SWc0N29QR3pZT2s/MaterialMotionHero_Spec_0505.mp4" type="video/mp4"></source>
 	</video>
