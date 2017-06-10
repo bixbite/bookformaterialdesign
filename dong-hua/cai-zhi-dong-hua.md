@@ -132,5 +132,44 @@
 
 材质元素可以意识到它周围的环境，包括它周围的用户或其他材质。材质可以被吸附其它元素上，并根据用户意图作出适当的反应。[相关阅读](https://material.io/guidelines/motion/choreography.html)
 
+<section style="margin-bottom: 30px">
+<figure style="width: 45%;float: left;margin-right: 20px;">
+	<div>
+	<video loop="" preload="auto" tabindex="0" width="100%" height="100%" controls="">
+	<source src="https://storage.googleapis.com/material-design/publish/material_v_11/assets/0B14F_FSUCc01TkJIam1HM0VsdEU/Aware_01_Choreo-v2.webm" type="video/webm">
+	<source src="https://storage.googleapis.com/material-design/publish/material_v_11/assets/0B14F_FSUCc01TFFreDdlSVp3dGc/Aware_01_Choreo-v2.mp4" type="video/mp4">
+	</video>
+	</div>
+	<figcaption style="padding: 10px;margin-top:10px">
+	<p>随着元素转场到视图，它们及其周围环境以一种可以定义它们关系的方式进行动画编排。</p>
+	</figcaption>
+</figure>
+<figure style="width: 45%;float: left;margin-right: 20px;">
+	<div>
+	<video loop="" preload="auto" tabindex="0" width="100%" height="100%" controls="">
+	<source src="https://storage.googleapis.com/material-design/publish/material_v_11/assets/0B14F_FSUCc01QVYxZ3NITnJfUjA/Aware_02_MoveAway-v2.webm" type="video/webm">
+	<source src="https://storage.googleapis.com/material-design/publish/material_v_11/assets/0B14F_FSUCc01RFdjQWE4ZXBseWM/Aware_02_MoveAway-v2.mp4" type="video/mp4">
+	</video>
+	</div>
+	<figcaption style="padding: 10px;margin-top:10px">
+	<p>材质元素可以推移其它材质元素。</p>
+	</figcaption>
+</figure>
+<div style="clear: both;"></div>
+</section>
 
+<section style="margin-bottom: 30px">
+<figure style="width: 45%;float: left;margin-right: 20px;">
+	<div>
+	<video loop="" preload="auto" tabindex="0" width="100%" height="100%" controls="">
+	<source src="https://storage.googleapis.com/material-design/publish/material_v_11/assets/0B14F_FSUCc01RHpoUVJ2UEk0cWc/Aware_03_Magnets-v2.webm" type="video/webm">
+	<source src="https://storage.googleapis.com/material-design/publish/material_v_11/assets/0B14F_FSUCc01YXR3cjNJeUdRNG8/Aware_03_Magnets-v2.mp4" type="video/mp4">
+	</video>
+	</div>
+	<figcaption style="padding: 10px;margin-top:10px">
+	<p>元素可以吸附到其它元素上，彼此接近并与之会合。</p>
+	</figcaption>
+</figure>
+<div style="clear: both;"></div>
+</section>
 
