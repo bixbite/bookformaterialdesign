@@ -69,7 +69,7 @@
 	<source src="https://storage.googleapis.com/material-design/publish/material_v_11/assets/0B14F_FSUCc01YVB4OXVzV3NQR3M/Responsive_02_Feedback-v2.mp4" type="video/mp4">
 	</video>
 	</div>
-	<figcaption style="border-top:15px solid #d32f2f;padding: 10px;margin-top:10px">
+	<figcaption style="padding: 10px;margin-top:10px">
 	<p>该动画通过立即从触碰点向外扩散的墨水晕染效果来确认用户的输入。浮起的卡片组件表面当前处于组件激活状态。</p>
 	</figcaption>
 </figure>
@@ -80,9 +80,57 @@
 	<source src="https://storage.googleapis.com/material-design/publish/material_v_11/assets/0B14F_FSUCc01MkJzdEZuY0E5YXM/Responsive_03_SurfaceConnection-v3.mp4" type="video/mp4">
 	</video>
 	</div>
-	<figcaption style="border-top:15px solid #d32f2f;padding: 10px;margin-top:10px">
+	<figcaption style="padding: 10px;margin-top:10px">
 	<p>该动画显示了新创建的组件平面如何与创建它的元素或动作进行衔接。</p>
 	</figcaption>
 </figure>
 <div style="clear: both;"></div>
 </section>
+
+<h4 style="color:#00bcd4">自然</h4>
+
+质感设计描绘的是与现实世界中力学相一致的自然的运动。
+
+<section style="margin-bottom: 30px">
+<figure style="width: 90%;">
+	<div>
+	<video loop="" preload="auto" tabindex="0" width="100%" height="100%" controls="">
+	<source src="https://storage.googleapis.com/material-design/publish/material_v_11/assets/0B14F_FSUCc01ZDVubnRMcENfcnM/Natural_01_Easing-v1.webm" type="video/webm">
+	<source src="https://storage.googleapis.com/material-design/publish/material_v_11/assets/0B14F_FSUCc01aWFoSHhFRVRpZW8/Natural_01_Easing-v1.mp4" type="video/mp4">
+	</div>
+</figure>
+<figcaption>在现实世界中，元素的加速减速运动受到其重量和物体表面摩擦的影响。同样，在质感设计中开始和结束的动作也不会突然发生。</figcaption>
+</section>
+
+<section style="margin-bottom: 30px">
+<figure style="width: 45%;float: left;margin-right: 20px;">
+	<div>
+	<video loop="" preload="auto" tabindex="0" width="100%" height="100%" controls="">
+	<source src="https://storage.googleapis.com/material-design/publish/material_v_11/assets/0B14F_FSUCc01eUt4Umt0dHVfblU/Natural_02_Arc-v3.webm" type="video/webm">
+	<source src="https://storage.googleapis.com/material-design/publish/material_v_11/assets/0B14F_FSUCc01SktIam0yei0wSnM/Natural_02_Arc-v3.mp4" type="video/mp4">
+	</video>
+	</div>
+	<figcaption style="padding: 10px;margin-top:10px">
+	<p>受真实世界中力学的启发，例如重力，元素应沿弧线运动而非直线。</p>
+	</figcaption>
+</figure>
+<figure style="width: 45%;float: left;margin-right: 20px;">
+	<div>
+	<video loop="" preload="auto" tabindex="0" width="100%" height="100%" controls="">
+	<source src="https://storage.googleapis.com/material-design/publish/material_v_11/assets/0B14F_FSUCc01b0VCclNJdV9xZmM/Natural_03_Transform-v3.webm" type="video/webm">
+	<source src="https://storage.googleapis.com/material-design/publish/material_v_11/assets/0B14F_FSUCc01bzJOUXhfTTVZY28/Natural_03_Transform-v3.mp4" type="video/mp4">
+	</video>
+	</div>
+	<figcaption style="padding: 10px;margin-top:10px">
+	<p>材质元素的变形也应该沿弧线运动。</p>
+	</figcaption>
+</figure>
+<div style="clear: both;"></div>
+</section>
+
+<h4 style="color:#00bcd4">察觉</h4>
+
+材质元素可以意识到它周围的环境，包括它周围的用户或其他材质。材质可以被吸附其它元素上，并根据用户意图作出适当的反应。
+
+
+
