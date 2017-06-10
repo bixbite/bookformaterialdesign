@@ -38,3 +38,24 @@
 * 个性，优美和愉悦的体验
 
 <hr style="height:1px; margin: 50px 0;"></hr>
+
+<h2 id="howani" style="color: #00bcd4">材质如何运动</h2>
+
+材质环境从物理世界中力的概念汲取灵感，如重力和摩擦力。这些力表现在用户的输入如何影响屏幕上的元素，以及在力的影响下元素间是如何相互作用的。
+
+动画中的材质有以下的特性：
+
+<h4 style="color:#00bcd4">响应</h4>
+
+材质充满活力，它会迅速响应用户的输入，且精确到用户出发它的位置。
+
+<section style="margin-bottom: 30px">
+<figure style="width: 90%;">
+	<div>
+	<video loop="" preload="auto" tabindex="0" width="100%" height="100%" controls="">
+	<source src="https://storage.googleapis.com/material-design/publish/material_v_11/assets/0B14F_FSUCc01dG5OVlFUTVFySTg/Responsive_01_Durations-v1.webm" type="video/webm">
+	<source src="https://storage.googleapis.com/material-design/publish/material_v_11/assets/0B14F_FSUCc01a05pM2FXWEN0b0U/Responsive_01_Durations-v1.mp4" type="video/mp4">
+	</video>
+	</div>
+</figure>
+</section>
