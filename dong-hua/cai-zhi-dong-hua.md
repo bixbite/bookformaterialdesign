@@ -173,3 +173,84 @@
 <div style="clear: both;"></div>
 </section>
 
+<h4 style="color:#00bcd4">意图</h4>
+
+材质的运动可以将焦点在正确的时间引导到正确的位置。
+
+<section style="margin-bottom: 30px">
+<figure style="width: 45%;float: left;margin-right: 20px;">
+	<div>
+	<video loop="" preload="auto" tabindex="0" width="100%" height="100%" controls="">
+	<source src="https://storage.googleapis.com/material-design/publish/material_v_11/assets/0B14F_FSUCc01YmV5SERQVU0wQjQ/Intentional_01_Focus-v3.webm" type="video/webm">
+	<source src="https://storage.googleapis.com/material-design/publish/material_v_11/assets/0B14F_FSUCc01SDNmSjRhbE9FNVU/Intentional_01_Focus-v3.mp4" type="video/mp4">
+	</div>
+	<figcaption style="padding: 10px;margin-top:10px">
+	<p>转场动画可以帮助引导用户进行下一步交互。</p>
+	</figcaption>
+</figure>
+<figure style="width: 45%;float: left;margin-right: 20px;">
+	<div>
+	<video loop="" preload="auto" tabindex="0" width="100%" height="100%" controls="">
+	<source src="https://storage.googleapis.com/material-design/publish/material_v_11/assets/0B14F_FSUCc01SjhfQzB4QmI1WUk/Intentional_03_Disabled-v2.webm" type="video/webm">
+	<source src="https://storage.googleapis.com/material-design/publish/material_v_11/assets/0B14F_FSUCc01RF9qdXlyMC1ETDA/Intentional_03_Disabled-v2.mp4" type="video/mp4">
+	</video>
+	</div>
+	<figcaption style="padding: 10px;margin-top:10px">
+	<p>通过运动可以传达出不同的信号，比如是否这个动作不可完成。</p>
+	</figcaption>
+</figure>
+<div style="clear: both;"></div>
+</section>
+
+<section style="margin-bottom: 30px">
+<figure style="width: 45%;float: left;margin-right: 20px;">
+	<div>
+	<video loop="" preload="auto" tabindex="0" width="100%" height="100%" controls="">
+	<source src="https://storage.googleapis.com/material-design/publish/material_v_11/assets/0B14F_FSUCc01Y09iZVJNcktPalE/Intentional_02_Ring-v3.webm" type="video/webm">
+	<source src="https://storage.googleapis.com/material-design/publish/material_v_11/assets/0B14F_FSUCc01akJiWVBnT3Bkc1U/Intentional_02_Ring-v3.mp4" type="video/mp4">
+	</video>
+	</div>
+	<figcaption style="padding: 10px;margin-top:10px">
+	<p>动画可以帮助将焦点放在需要用户注意的元素上。</p>
+	</figcaption>
+</figure>
+<div style="clear: both;"></div>
+</section>
+
+<hr style="height:1px; margin: 50px 0;"></hr>
+
+<h2 id="trans" style="color: #00bcd4">优秀转场的关键</h2>
+
+成功的动画设计拥有以下特性：
+
+<h4 style="color:#00bcd4">运动要迅速</h4>
+
+交互不应使用户等待的时间超过必要的时间
+
+<section style="margin-bottom: 30px">
+<figure style="width: 45%;float: left;margin-right: 20px;">
+	<div>
+	<video loop="" preload="auto" tabindex="0" width="100%" height="100%" controls="">
+	<source src="https://storage.googleapis.com/material-design/publish/material_v_11/assets/0B14F_FSUCc01emlGOWRnRkpMOVk/GoodTransition_QuickDo-v4.webm" type="video/webm">
+	<source src="https://storage.googleapis.com/material-design/publish/material_v_11/assets/0B14F_FSUCc01aHJmMm9aR3JvazQ/GoodTransition_QuickDo-v4.mp4" type="video/mp4">
+	</video>
+	</div>
+	<figcaption style="border-top:15px solid #4caf50;padding: 10px;margin-top:10px">
+	<p style="color: #2e7b32;margin-bottom: 0.3em;">正确</p>
+	<p>迅速的动画无需让用户必须等待其完成。</p>
+	</figcaption>
+</figure>
+<figure style="width: 45%;float: left;margin-right: 20px;">
+	<div>
+	<video loop="" preload="auto" tabindex="0" width="100%" height="100%" controls="">
+	<source src="https://storage.googleapis.com/material-design/publish/material_v_11/assets/0B14F_FSUCc01SEVWZVRRbk40ZDA/GoodTransition_QuickDont-v4.webm" type="video/webm">
+	<source src="https://storage.googleapis.com/material-design/publish/material_v_11/assets/0B14F_FSUCc01bDBVZE5ndzctZW8/GoodTransition_QuickDont-v4.mp4" type="video/mp4">
+	</video>
+	</div>
+	<figcaption style="border-top:15px solid #d32f2f;padding: 10px;margin-top:10px">
+	<p style="color: #d32f2f;margin-bottom: 0.3em;">错误</p>
+	<p>许多元素交错和缓慢的动作将延长动画的持续时间。</p>
+	</figcaption>
+</figure>
+<div style="clear: both;"></div>
+</section>
