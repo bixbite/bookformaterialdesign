@@ -254,3 +254,54 @@
 </figure>
 <div style="clear: both;"></div>
 </section>
+
+<h4 style="color:#00bcd4">运动要清晰</h4>
+
+转场动画应该清晰，简介，连贯。应避免一次做太多事情。
+
+<section style="margin-bottom: 30px">
+<figure style="width: 45%;float: left;margin-right: 20px;">
+	<div>
+	<video loop="" preload="auto" tabindex="0" width="100%" height="100%" controls="">
+	<source src="https://storage.googleapis.com/material-design/publish/material_v_11/assets/0B14F_FSUCc01UlJKVG9BVVFuMHM/GoodTransition_ClearDo-v3.webm" type="video/webm">
+	<source src="https://storage.googleapis.com/material-design/publish/material_v_11/assets/0B14F_FSUCc01NDkzU2FaYlFHMXM/GoodTransition_ClearDo-v3.mp4" type="video/mp4">
+	</video>
+	</div>
+	<figcaption style="border-top:15px solid #4caf50;padding: 10px;margin-top:10px">
+	<p style="color: #2e7b32;margin-bottom: 0.3em;">正确</p>
+	<p>保持一个清晰的路径进入下一个视图，尽管元素被编为一组。</p>
+	</figcaption>
+</figure>
+<figure style="width: 45%;float: left;margin-right: 20px;">
+	<div>
+	<video loop="" preload="auto" tabindex="0" width="100%" height="100%" controls="">
+	<source src="https://storage.googleapis.com/material-design/publish/material_v_11/assets/0B14F_FSUCc01UlJKVG9BVVFuMHM/GoodTransition_ClearDo-v3.webm" type="video/webm">
+	<source src="https://storage.googleapis.com/material-design/publish/material_v_11/assets/0B14F_FSUCc01NDkzU2FaYlFHMXM/GoodTransition_ClearDo-v3.mp4" type="video/mp4">
+	</video>
+	</div>
+	<figcaption style="border-top:15px solid #d32f2f;padding: 10px;margin-top:10px">
+	<p style="color: #d32f2f;margin-bottom: 0.3em;">错误</p>
+	<p>当多个元素在不同方向或交叉路径上移动时，转场可能会令人困惑。。</p>
+	</figcaption>
+</figure>
+<div style="clear: both;"></div>
+</section>
+
+<h4 style="color:#00bcd4">运动要连贯</h4>
+
+材质元素由速度，反应和用意统一起来。任何自定义的动画体验应在整个程序中保持一致。
+
+<section style="margin-bottom: 30px">
+<figure style="width: 90%;">
+	<div>
+	<video loop="" preload="auto" tabindex="0" width="100%" height="100%" controls="">
+	<source src="https://storage.googleapis.com/material-design/publish/material_v_11/assets/0B14F_FSUCc01WjlzM09rd2Y2WVE/GoodTransition_Cohesive-v4.webm" type="video/webm">
+	<source src="https://storage.googleapis.com/material-design/publish/material_v_11/assets/0B14F_FSUCc01eG45MUV2blJQTWc/GoodTransition_Cohesive-v4.mp4" type="video/mp4">
+	</video>
+	</div>
+	<figcaption style="padding: 10px;margin-top:10px">
+	<p>即使这些应用有着不同的功能，它们相似的动画体验使他们感觉这些交互彼此相关。</p>
+	</figcaption>
+</figure>
+</section>
+
