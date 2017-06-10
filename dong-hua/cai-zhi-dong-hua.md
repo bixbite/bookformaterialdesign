@@ -281,7 +281,7 @@
 	</div>
 	<figcaption style="border-top:15px solid #d32f2f;padding: 10px;margin-top:10px">
 	<p style="color: #d32f2f;margin-bottom: 0.3em;">错误</p>
-	<p>当多个元素在不同方向或交叉路径上移动时，转场可能会令人困惑。。</p>
+	<p>当多个元素在不同方向或交叉路径上移动时，转场可能会令人困惑。</p>
 	</figcaption>
 </figure>
 <div style="clear: both;"></div>
@@ -305,3 +305,36 @@
 </figure>
 </section>
 
+<hr style="height:1px; margin: 50px 0;"></hr>
+
+<h2 id="meanani" style="color: #00bcd4">动画的含义</h2>
+
+这些运动模式的好处可以从以下两个实例中发现，遵循这些模式的范例和未遵循这些模式的范例相比较。
+
+<section style="margin-bottom: 30px">
+<figure style="width: 45%;float: left;margin-right: 20px;">
+	<div>
+	<video loop="" preload="auto" tabindex="0" width="100%" height="100%" controls="">
+	<source src="https://storage.googleapis.com/material-design/publish/material_v_11/assets/0B14F_FSUCc01MU04ZGg3WjB1MXM/ImplicationsDo-v2.webm" type="video/webm">
+	<source src="https://storage.googleapis.com/material-design/publish/material_v_11/assets/0B14F_FSUCc01Um1wdzhBR1ZuYVE/ImplicationsDo-v2.mp4" type="video/mp4">
+	</video>
+	</div>
+	<figcaption style="border-top:15px solid #4caf50;padding: 10px;margin-top:10px">
+	<p style="color: #2e7b32;margin-bottom: 0.3em;">正确</p>
+	<p>在转场期间，用户被引导到下一个视图。物体表面的变化反应了层级关系。后台加载降低了感知延迟。</p>
+	</figcaption>
+</figure>
+<figure style="width: 45%;float: left;margin-right: 20px;">
+	<div>
+	<video loop="" preload="auto" tabindex="0" width="100%" height="100%" controls="">
+	<source src="https://storage.googleapis.com/material-design/publish/material_v_11/assets/0B14F_FSUCc01N0xBbXNTVGtrM2c/ImplicationsDont-v2.webm" type="video/webm">
+	<source src="https://storage.googleapis.com/material-design/publish/material_v_11/assets/0B14F_FSUCc01anJjQkt4QS1GRzQ/ImplicationsDont-v2.mp4" type="video/mp4">
+	</video>
+	</div>
+	<figcaption style="border-top:15px solid #d32f2f;padding: 10px;margin-top:10px">
+	<p style="color: #d32f2f;margin-bottom: 0.3em;">错误</p>
+	<p>由于没有转场的发生和确切的焦点，我们无从发现新视图如何与之前视图相关联。无法表达出任何层级关系。加载符的出现过于明显的体现加载的动作。</p>
+	</figcaption>
+</figure>
+<div style="clear: both;"></div>
+</section>
