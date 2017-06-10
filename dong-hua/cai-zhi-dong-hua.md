@@ -28,7 +28,7 @@
 
 <h2 id="whyani" style="color: #00bcd4">为什么动画很重要</h2>
 
-动画展示了应用程序的组织方式，及它可以用来做什么。
+动画展示了应用程序的组织方式，及它可以用来做什么。[相关阅读](https://design.google.com/articles/making-motion-meaningful/)
 
 动画提供了：
 * 引导视图间焦点
