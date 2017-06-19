@@ -165,6 +165,30 @@
 </figure>
 </section>
 
+<h4 style="color:#00bcd4">缓动曲线</h4>
+
+根据所使用的平台或软件，缓动曲线的命名可能不同。 这些准则将它们称为标准，减速，加速和曲线。
+
+<h4 style="color:#00bcd4">标准曲线</h4>
+
+标准曲线是最常见的缓动曲线，也被称为渐入渐出。它是指元素快速加速然后缓慢减速的运动。它适用于材质的缩放及其它的一些属性变化。
+
+<section style="margin-bottom: 30px">
+<figure style="width: 90%;">
+	<div>
+	<video loop="" preload="auto" tabindex="0" width="100%" height="100%" controls="">
+	<source src="https://storage.googleapis.com/material-design/publish/material_v_11/assets/0B14F_FSUCc01blBnODdnZnZuVE0/NaturalEasing_02_StandardCurve_v1.webm" type="video/webm">
+	<source src="https://storage.googleapis.com/material-design/publish/material_v_11/assets/0B14F_FSUCc01LXZKZ0NUeVRrdzg/NaturalEasing_02_StandardCurve_v1.mp4" type="video/mp4">
+	</div>
+</figure>
+</section>
+
+
+
+
+
+
+
 
 
 
