@@ -4,6 +4,7 @@
 <blockquote style="color:#00bcd4;border-left: 4px solid #00bcd4;margin: 30px 0;">
 <p>运动中的材质是响应和自然的。使用这些缓动曲线和持续时间模式来创造出平滑统一的动画</p>
 </blockquote>
+
 缓动曲线:
 * 标准曲线
 * 减速曲线
