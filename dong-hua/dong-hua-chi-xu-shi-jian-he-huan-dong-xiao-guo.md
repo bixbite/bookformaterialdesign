@@ -183,271 +183,99 @@
 </figure>
 </section>
 
+<div class="module" style="margin-bottom: 30px">
+<table class="s-tag-table">
+<tbody>
+<tr><td colspan="1" rowspan="1"><p>Platform</p></td><td colspan="1" rowspan="1"><p>Protocol</p></td></tr>
+<tr><td colspan="1" rowspan="1"><p>Android</p></td><td colspan="1" rowspan="1"><p>FastOutSlowInInterpolator</p></td></tr>
+<tr><td colspan="1" rowspan="1"><p>iOS</p></td><td colspan="1" rowspan="1"><p>[[CAMediaTimingFunction alloc] initWithControlPoints:0.4f:0.0f:0.2f:1.0f]</p></td></tr>
+<tr><td colspan="1" rowspan="1"><p>CSS</p></td><td colspan="1" rowspan="1"><p>cubic-bezier(0.4, 0.0, 0.2, 1);</p></td></tr>
+<tr><td colspan="1" rowspan="1"><p>After Effects</p></td><td colspan="1" rowspan="1"><p>Outgoing Velocity: 40%<br>Incoming Velocity: 80%</p></td></tr>
+</tbody>
+</table>
+</div>
 
+<h4 style="color:#00bcd4">减速曲线</h4>
 
+当使用减速曲线时，元素以全速进入屏幕并且缓慢减速到静止点。
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<h4 style="color:#00bcd4">自然</h4>
-
-质感设计描绘的是与现实世界中力学相一致的自然的运动。
+在减速过程中，元素可以在尺寸或透明度上进行放大。在某些情况下，当元素以0透明度进入屏幕时，它们可能会以较大的尺寸略微缩小的形式进入。
 
 <section style="margin-bottom: 30px">
 <figure style="width: 90%;">
 	<div>
 	<video loop="" preload="auto" tabindex="0" width="100%" height="100%" controls="">
-	<source src="https://storage.googleapis.com/material-design/publish/material_v_11/assets/0B14F_FSUCc01ZDVubnRMcENfcnM/Natural_01_Easing-v1.webm" type="video/webm">
-	<source src="https://storage.googleapis.com/material-design/publish/material_v_11/assets/0B14F_FSUCc01aWFoSHhFRVRpZW8/Natural_01_Easing-v1.mp4" type="video/mp4">
+	<source src="https://storage.googleapis.com/material-design/publish/material_v_11/assets/0B14F_FSUCc01MTRaLVVwVmNad3M/NaturalEasing_03_DecelerationCurve_v1.webm" type="video/webm">
+	<source src="https://storage.googleapis.com/material-design/publish/material_v_11/assets/0B14F_FSUCc01cEVUck1yWENMRzQ/NaturalEasing_03_DecelerationCurve_v1.mp4" type="video/mp4">
 	</div>
 </figure>
-<figcaption>在现实世界中，元素的加速减速运动受到其重量和物体表面摩擦的影响。同样，在质感设计中开始和结束的动作也不会突然发生。</figcaption>
 </section>
 
-<section style="margin-bottom: 30px">
-<figure style="width: 45%;float: left;margin-right: 20px;">
-	<div>
-	<video loop="" preload="auto" tabindex="0" width="100%" height="100%" controls="">
-	<source src="https://storage.googleapis.com/material-design/publish/material_v_11/assets/0B14F_FSUCc01eUt4Umt0dHVfblU/Natural_02_Arc-v3.webm" type="video/webm">
-	<source src="https://storage.googleapis.com/material-design/publish/material_v_11/assets/0B14F_FSUCc01SktIam0yei0wSnM/Natural_02_Arc-v3.mp4" type="video/mp4">
-	</video>
-	</div>
-	<figcaption style="padding: 10px;margin-top:10px">
-	<p>受真实世界中力学的启发，例如重力，元素应沿弧线运动而非直线。</p>
-	</figcaption>
-</figure>
-<figure style="width: 45%;float: left;margin-right: 20px;">
-	<div>
-	<video loop="" preload="auto" tabindex="0" width="100%" height="100%" controls="">
-	<source src="https://storage.googleapis.com/material-design/publish/material_v_11/assets/0B14F_FSUCc01b0VCclNJdV9xZmM/Natural_03_Transform-v3.webm" type="video/webm">
-	<source src="https://storage.googleapis.com/material-design/publish/material_v_11/assets/0B14F_FSUCc01bzJOUXhfTTVZY28/Natural_03_Transform-v3.mp4" type="video/mp4">
-	</video>
-	</div>
-	<figcaption style="padding: 10px;margin-top:10px">
-	<p>材质元素的变形也应该沿弧线运动。</p>
-	</figcaption>
-</figure>
-<div style="clear: both;"></div>
-</section>
+<div class="module" style="margin-bottom: 30px">
+<table class="s-tag-table">
+<tbody>
+<tr><td colspan="1" rowspan="1"><p>Platform</p></td><td colspan="1" rowspan="1"><p>Protocol</p></td></tr>
+<tr><td colspan="1" rowspan="1"><p>Android</p></td><td colspan="1" rowspan="1"><p>LinearOutSlowInInterpolator</p></td></tr>
+<tr><td colspan="1" rowspan="1"><p>iOS</p></td><td colspan="1" rowspan="1"><p> [[CAMediaTimingFunction alloc] initWithControlPoints:0.0f:0.0f:0.2f:1.0f]</p></td></tr>
+<tr><td colspan="1" rowspan="1"><p>CSS</p></td><td colspan="1" rowspan="1"><p>cubic-bezier(0.0, 0.0, 0.2, 1);</p></td></tr>
+<tr><td colspan="1" rowspan="1"><p>After Effects</p></td><td colspan="1" rowspan="1"><p>Outgoing Velocity: 0%<br>
+Incoming Velocity: 80%</p></td></tr>
+</tbody>
+</table>
+</div>
 
-<h4 style="color:#00bcd4">察觉</h4>
+<h4 style="color:#00bcd4">加速曲线</h4>
 
-材质元素可以意识到它周围的环境，包括它周围的用户或其他材质。材质可以被吸附其它元素上，并根据用户意图作出适当的反应。[相关阅读](https://material.io/guidelines/motion/choreography.html)
+当使用加速曲线时，元素以全速离开屏幕，直到元素移出屏幕也不会减速。
 
-<section style="margin-bottom: 30px">
-<figure style="width: 45%;float: left;margin-right: 20px;">
-	<div>
-	<video loop="" preload="auto" tabindex="0" width="100%" height="100%" controls="">
-	<source src="https://storage.googleapis.com/material-design/publish/material_v_11/assets/0B14F_FSUCc01TkJIam1HM0VsdEU/Aware_01_Choreo-v2.webm" type="video/webm">
-	<source src="https://storage.googleapis.com/material-design/publish/material_v_11/assets/0B14F_FSUCc01TFFreDdlSVp3dGc/Aware_01_Choreo-v2.mp4" type="video/mp4">
-	</video>
-	</div>
-	<figcaption style="padding: 10px;margin-top:10px">
-	<p>随着元素转场到视图，它们及其周围环境以一种可以定义它们关系的方式进行动画编排。</p>
-	</figcaption>
-</figure>
-<figure style="width: 45%;float: left;margin-right: 20px;">
-	<div>
-	<video loop="" preload="auto" tabindex="0" width="100%" height="100%" controls="">
-	<source src="https://storage.googleapis.com/material-design/publish/material_v_11/assets/0B14F_FSUCc01QVYxZ3NITnJfUjA/Aware_02_MoveAway-v2.webm" type="video/webm">
-	<source src="https://storage.googleapis.com/material-design/publish/material_v_11/assets/0B14F_FSUCc01RFdjQWE4ZXBseWM/Aware_02_MoveAway-v2.mp4" type="video/mp4">
-	</video>
-	</div>
-	<figcaption style="padding: 10px;margin-top:10px">
-	<p>材质元素可以推移其它材质元素。</p>
-	</figcaption>
-</figure>
-<div style="clear: both;"></div>
-</section>
-
-<section style="margin-bottom: 30px">
-<figure style="width: 45%;float: left;margin-right: 20px;">
-	<div>
-	<video loop="" preload="auto" tabindex="0" width="100%" height="100%" controls="">
-	<source src="https://storage.googleapis.com/material-design/publish/material_v_11/assets/0B14F_FSUCc01RHpoUVJ2UEk0cWc/Aware_03_Magnets-v2.webm" type="video/webm">
-	<source src="https://storage.googleapis.com/material-design/publish/material_v_11/assets/0B14F_FSUCc01YXR3cjNJeUdRNG8/Aware_03_Magnets-v2.mp4" type="video/mp4">
-	</video>
-	</div>
-	<figcaption style="padding: 10px;margin-top:10px">
-	<p>元素可以吸附到其它元素上，彼此接近并与之会合。</p>
-	</figcaption>
-</figure>
-<div style="clear: both;"></div>
-</section>
-
-<h4 style="color:#00bcd4">意图</h4>
-
-材质的运动可以将焦点在正确的时间引导到正确的位置。
-
-<section style="margin-bottom: 30px">
-<figure style="width: 45%;float: left;margin-right: 20px;">
-	<div>
-	<video loop="" preload="auto" tabindex="0" width="100%" height="100%" controls="">
-	<source src="https://storage.googleapis.com/material-design/publish/material_v_11/assets/0B14F_FSUCc01YmV5SERQVU0wQjQ/Intentional_01_Focus-v3.webm" type="video/webm">
-	<source src="https://storage.googleapis.com/material-design/publish/material_v_11/assets/0B14F_FSUCc01SDNmSjRhbE9FNVU/Intentional_01_Focus-v3.mp4" type="video/mp4">
-	</div>
-	<figcaption style="padding: 10px;margin-top:10px">
-	<p>转场动画可以帮助引导用户进行下一步交互。</p>
-	</figcaption>
-</figure>
-<figure style="width: 45%;float: left;margin-right: 20px;">
-	<div>
-	<video loop="" preload="auto" tabindex="0" width="100%" height="100%" controls="">
-	<source src="https://storage.googleapis.com/material-design/publish/material_v_11/assets/0B14F_FSUCc01SjhfQzB4QmI1WUk/Intentional_03_Disabled-v2.webm" type="video/webm">
-	<source src="https://storage.googleapis.com/material-design/publish/material_v_11/assets/0B14F_FSUCc01RF9qdXlyMC1ETDA/Intentional_03_Disabled-v2.mp4" type="video/mp4">
-	</video>
-	</div>
-	<figcaption style="padding: 10px;margin-top:10px">
-	<p>通过运动可以传达出不同的信号，比如是否这个动作不可完成。</p>
-	</figcaption>
-</figure>
-<div style="clear: both;"></div>
-</section>
-
-<section style="margin-bottom: 30px">
-<figure style="width: 45%;float: left;margin-right: 20px;">
-	<div>
-	<video loop="" preload="auto" tabindex="0" width="100%" height="100%" controls="">
-	<source src="https://storage.googleapis.com/material-design/publish/material_v_11/assets/0B14F_FSUCc01Y09iZVJNcktPalE/Intentional_02_Ring-v3.webm" type="video/webm">
-	<source src="https://storage.googleapis.com/material-design/publish/material_v_11/assets/0B14F_FSUCc01akJiWVBnT3Bkc1U/Intentional_02_Ring-v3.mp4" type="video/mp4">
-	</video>
-	</div>
-	<figcaption style="padding: 10px;margin-top:10px">
-	<p>动画可以帮助将焦点放在需要用户注意的元素上。</p>
-	</figcaption>
-</figure>
-<div style="clear: both;"></div>
-</section>
-
-<hr style="height:1px; margin: 50px 0;"></hr>
-
-<h2 id="trans" style="color: #00bcd4">优秀转场的关键</h2>
-
-成功的动画设计拥有以下特性：
-
-<h4 style="color:#00bcd4">运动要迅速</h4>
-
-交互不应使用户等待的时间超过必要的时间
-
-<section style="margin-bottom: 30px">
-<figure style="width: 45%;float: left;margin-right: 20px;">
-	<div>
-	<video loop="" preload="auto" tabindex="0" width="100%" height="100%" controls="">
-	<source src="https://storage.googleapis.com/material-design/publish/material_v_11/assets/0B14F_FSUCc01emlGOWRnRkpMOVk/GoodTransition_QuickDo-v4.webm" type="video/webm">
-	<source src="https://storage.googleapis.com/material-design/publish/material_v_11/assets/0B14F_FSUCc01aHJmMm9aR3JvazQ/GoodTransition_QuickDo-v4.mp4" type="video/mp4">
-	</video>
-	</div>
-	<figcaption style="border-top:15px solid #4caf50;padding: 10px;margin-top:10px">
-	<p style="color: #2e7b32;margin-bottom: 0.3em;">正确</p>
-	<p>迅速的动画无需让用户必须等待其完成。</p>
-	</figcaption>
-</figure>
-<figure style="width: 45%;float: left;margin-right: 20px;">
-	<div>
-	<video loop="" preload="auto" tabindex="0" width="100%" height="100%" controls="">
-	<source src="https://storage.googleapis.com/material-design/publish/material_v_11/assets/0B14F_FSUCc01SEVWZVRRbk40ZDA/GoodTransition_QuickDont-v4.webm" type="video/webm">
-	<source src="https://storage.googleapis.com/material-design/publish/material_v_11/assets/0B14F_FSUCc01bDBVZE5ndzctZW8/GoodTransition_QuickDont-v4.mp4" type="video/mp4">
-	</video>
-	</div>
-	<figcaption style="border-top:15px solid #d32f2f;padding: 10px;margin-top:10px">
-	<p style="color: #d32f2f;margin-bottom: 0.3em;">错误</p>
-	<p>许多元素交错和缓慢的动作将延长动画的持续时间。</p>
-	</figcaption>
-</figure>
-<div style="clear: both;"></div>
-</section>
-
-<h4 style="color:#00bcd4">运动要清晰</h4>
-
-转场动画应该清晰，简介，连贯。应避免一次做太多事情。
-
-<section style="margin-bottom: 30px">
-<figure style="width: 45%;float: left;margin-right: 20px;">
-	<div>
-	<video loop="" preload="auto" tabindex="0" width="100%" height="100%" controls="">
-	<source src="https://storage.googleapis.com/material-design/publish/material_v_11/assets/0B14F_FSUCc01UlJKVG9BVVFuMHM/GoodTransition_ClearDo-v3.webm" type="video/webm">
-	<source src="https://storage.googleapis.com/material-design/publish/material_v_11/assets/0B14F_FSUCc01NDkzU2FaYlFHMXM/GoodTransition_ClearDo-v3.mp4" type="video/mp4">
-	</video>
-	</div>
-	<figcaption style="border-top:15px solid #4caf50;padding: 10px;margin-top:10px">
-	<p style="color: #2e7b32;margin-bottom: 0.3em;">正确</p>
-	<p>保持一个清晰的路径进入下一个视图，尽管元素被编为一组。</p>
-	</figcaption>
-</figure>
-<figure style="width: 45%;float: left;margin-right: 20px;">
-	<div>
-	<video loop="" preload="auto" tabindex="0" width="100%" height="100%" controls="">
-	<source src="https://storage.googleapis.com/material-design/publish/material_v_11/assets/0B14F_FSUCc01UlJKVG9BVVFuMHM/GoodTransition_ClearDo-v3.webm" type="video/webm">
-	<source src="https://storage.googleapis.com/material-design/publish/material_v_11/assets/0B14F_FSUCc01NDkzU2FaYlFHMXM/GoodTransition_ClearDo-v3.mp4" type="video/mp4">
-	</video>
-	</div>
-	<figcaption style="border-top:15px solid #d32f2f;padding: 10px;margin-top:10px">
-	<p style="color: #d32f2f;margin-bottom: 0.3em;">错误</p>
-	<p>当多个元素在不同方向或交叉路径上移动时，转场可能会令人困惑。</p>
-	</figcaption>
-</figure>
-<div style="clear: both;"></div>
-</section>
-
-<h4 style="color:#00bcd4">运动要连贯</h4>
-
-材质元素由速度，反应和用意统一起来。任何自定义的动画体验应在整个程序中保持一致。
+元素在动画开始时加速，并可能尺寸和透明度都降低到0. 在有些情况下，当元素以0%不透明度离开屏幕时，它们也可能在尺寸上略微缩小。
 
 <section style="margin-bottom: 30px">
 <figure style="width: 90%;">
 	<div>
 	<video loop="" preload="auto" tabindex="0" width="100%" height="100%" controls="">
-	<source src="https://storage.googleapis.com/material-design/publish/material_v_11/assets/0B14F_FSUCc01WjlzM09rd2Y2WVE/GoodTransition_Cohesive-v4.webm" type="video/webm">
-	<source src="https://storage.googleapis.com/material-design/publish/material_v_11/assets/0B14F_FSUCc01eG45MUV2blJQTWc/GoodTransition_Cohesive-v4.mp4" type="video/mp4">
-	</video>
+	<source src="https://storage.googleapis.com/material-design/publish/material_v_11/assets/0B14F_FSUCc01U1lNVGFiV0plWHc/NaturalEasing_04_AccelerationCurve_v1.webm" type="video/webm">
+	<source src="https://storage.googleapis.com/material-design/publish/material_v_11/assets/0B14F_FSUCc01TndGaDBxRTRpOW8/NaturalEasing_04_AccelerationCurve_v1.mp4" type="video/mp4">
 	</div>
-	<figcaption style="padding: 10px;margin-top:10px">
-	<p>即使这些应用有着不同的功能，它们相似的动画体验使他们感觉这些交互彼此相关。</p>
-	</figcaption>
 </figure>
 </section>
 
-<hr style="height:1px; margin: 50px 0;"></hr>
+<div class="module" style="margin-bottom: 30px">
+<table class="s-tag-table">
+<tbody>
+<tr><td colspan="1" rowspan="1"><p>Platform</p></td><td colspan="1" rowspan="1"><p>Protocol</p></td></tr>
+<tr><td colspan="1" rowspan="1"><p>Android</p></td><td colspan="1" rowspan="1"><p>FastOutLinearInInterpolator</p></td></tr>
+<tr><td colspan="1" rowspan="1"><p>iOS</p></td><td colspan="1" rowspan="1"><p> [CAMediaTimingFunction alloc] initWithControlPoints:0.4f:0.0f:1.0f:1.0f]</p></td></tr>
+<tr><td colspan="1" rowspan="1"><p>CSS</p></td><td colspan="1" rowspan="1"><p>cubic-bezier(0.4, 0.0, 1, 1);</p></td></tr>
+<tr><td colspan="1" rowspan="1"><p>After Effects</p></td><td colspan="1" rowspan="1"><p>Outgoing Velocity: 40%<br>Incoming Velocity: 0%</p></td></tr>
+</tbody>
+</table>
+</div>
 
-<h2 id="meanani" style="color: #00bcd4">动画的含义</h2>
+<h4 style="color:#00bcd4">锐曲线</h4>
 
-这些运动模式的好处可以从以下两个实例中发现，遵循这些模式的范例和未遵循这些模式的范例相比较。
+当使用锐曲线时，元素快速加速和减速。它通常被随时退出并可能返回屏幕的元素使用。
+
+元素可以从屏幕的开始点迅速加速，然后以不对成的曲线快速减速到静止点，随即立即消失。其减速比标准曲线更快，因为它不会遵循一个精准的路径离开屏幕。元素可以随时从该点返回。
 
 <section style="margin-bottom: 30px">
-<figure style="width: 45%;float: left;margin-right: 20px;">
+<figure style="width: 90%;">
 	<div>
 	<video loop="" preload="auto" tabindex="0" width="100%" height="100%" controls="">
-	<source src="https://storage.googleapis.com/material-design/publish/material_v_11/assets/0B14F_FSUCc01MU04ZGg3WjB1MXM/ImplicationsDo-v2.webm" type="video/webm">
-	<source src="https://storage.googleapis.com/material-design/publish/material_v_11/assets/0B14F_FSUCc01Um1wdzhBR1ZuYVE/ImplicationsDo-v2.mp4" type="video/mp4">
-	</video>
+	<source src="https://storage.googleapis.com/material-design/publish/material_v_11/assets/0B14F_FSUCc01d2xfcmNhRXl0ck0/NaturalEasing_05_SharpCurve_v1.webm" type="video/webm">
+	<source src="https://storage.googleapis.com/material-design/publish/material_v_11/assets/0B14F_FSUCc01aHVDZFVTSy1LLW8/NaturalEasing_05_SharpCurve_v1.mp4" type="video/mp4">
 	</div>
-	<figcaption style="border-top:15px solid #4caf50;padding: 10px;margin-top:10px">
-	<p style="color: #2e7b32;margin-bottom: 0.3em;">正确</p>
-	<p>在转场期间，用户被引导到下一个视图。物体表面的变化反应了层级关系。后台加载降低了感知延迟。</p>
-	</figcaption>
 </figure>
-<figure style="width: 45%;float: left;margin-right: 20px;">
-	<div>
-	<video loop="" preload="auto" tabindex="0" width="100%" height="100%" controls="">
-	<source src="https://storage.googleapis.com/material-design/publish/material_v_11/assets/0B14F_FSUCc01N0xBbXNTVGtrM2c/ImplicationsDont-v2.webm" type="video/webm">
-	<source src="https://storage.googleapis.com/material-design/publish/material_v_11/assets/0B14F_FSUCc01anJjQkt4QS1GRzQ/ImplicationsDont-v2.mp4" type="video/mp4">
-	</video>
-	</div>
-	<figcaption style="border-top:15px solid #d32f2f;padding: 10px;margin-top:10px">
-	<p style="color: #d32f2f;margin-bottom: 0.3em;">错误</p>
-	<p>由于没有转场的发生和确切的焦点，我们无从发现新视图如何与之前视图相关联。无法表达出任何层级关系。加载符的出现过于明显的体现加载的动作。</p>
-	</figcaption>
-</figure>
-<div style="clear: both;"></div>
 </section>
+
+<div class="module" style="margin-bottom: 30px">
+<table class="s-tag-table">
+<tbody>
+<tr><td colspan="1" rowspan="1"><p>Platform</p></td><td colspan="1" rowspan="1"><p>Protocol</p></td></tr>
+<tr><td colspan="1" rowspan="1"><p>Android</p></td><td colspan="1" rowspan="1"><p>-</p></td></tr>
+<tr><td colspan="1" rowspan="1"><p>iOS</p></td><td colspan="1" rowspan="1"><p>-</p></td></tr>
+<tr><td colspan="1" rowspan="1"><p>CSS</p></td><td colspan="1" rowspan="1"><p>cubic-bezier(0.4, 0.0, 0.6, 1);</p></td></tr>
+<tr><td colspan="1" rowspan="1"><p>After Effects</p></td><td colspan="1" rowspan="1"><p>Outgoing Velocity: 40%<br>Incoming Velocity: 40%</p></td></tr>
+</tbody>
+</table>
+</div>
