@@ -10,4 +10,5 @@
   * [质感设计之动效](dong-hua/cai-zhi-dong-hua.md)
   * [动效持续时间和缓动效果](dong-hua/dong-hua-chi-xu-shi-jian-he-huan-dong-xiao-guo.md)
   * [动效之运动](dong-hua/yun-dong.md)
+  * [材质变形](dong-hua/cai-zhi-bian-xing.md)
 
