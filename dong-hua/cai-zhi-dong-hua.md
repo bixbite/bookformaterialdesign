@@ -1,8 +1,8 @@
-<h1 id="envir" style="color:#00bcd4;margin: 0">动画</h1>
+<h1 id="envir" style="color:#00bcd4;margin: 0">动效</h1>
 <hr style="height:1px;"></hr>
 
 <blockquote style="color:#00bcd4;border-left: 4px solid #00bcd4;margin: 30px 0;">
-<p>质感设计中的通过优美流利的动画展示了物体间的空间关系，功用以及设计意图。</p>
+<p>质感设计中的通过优美流利的动效展示了物体间的空间关系，功用以及设计意图。</p>
 </blockquote>
 
 <section style="margin-bottom: 30px">
@@ -20,17 +20,17 @@
 
 <blockquote style="color:#00bcd4;border-left: 4px solid #00bcd4;margin: 30px 0;">
 <p style="color:#757575">内容</p>
-<h4><a href="#whyani">为什么动画很重要</a></h4>
+<h4><a href="#whyani">为什么动效很重要</a></h4>
 <h4><a href="#howani">材质如何运动</a></h4>
 <h4><a href="#trans">优秀转场的关键</a></h4>
-<h4><a href="#meanani">动画的含义</a></h4>
+<h4><a href="#meanani">动效的含义</a></h4>
 </blockquote>
 
-<h2 id="whyani" style="color: #00bcd4">为什么动画很重要</h2>
+<h2 id="whyani" style="color: #00bcd4">为什么动效很重要</h2>
 
-动画展示了应用程序的组织方式，及它可以用来做什么。[相关阅读](https://design.google.com/articles/making-motion-meaningful/)
+动效展示了应用程序的组织方式，及它可以用来做什么。[相关阅读](https://design.google.com/articles/making-motion-meaningful/)
 
-动画提供了：
+动效提供了：
 * 引导视图间焦点
 * 提示用户一个手势完成后会发生什么
 * 描述元素间层级和空间关系
@@ -43,7 +43,7 @@
 
 材质环境从物理世界中力的概念汲取灵感，如重力和摩擦力。这些力表现在用户的输入如何影响屏幕上的元素，以及在力的影响下元素间是如何相互作用的。
 
-动画中的材质有以下的特性：
+动效中的材质有以下的特性：
 
 <h4 style="color:#00bcd4">响应</h4>
 
@@ -58,7 +58,7 @@
 	</video>
 	</div>
 </figure>
-<figcaption>较大的动画时长应保持在300-400ms，较小的保持在150-200ms。大于或小于这些时长的动画可能会让人感到迟钝或目光难以追踪。</figcaption>
+<figcaption>较大的动效时长应保持在300-400ms，较小的保持在150-200ms。大于或小于这些时长的动效可能会让人感到迟钝或目光难以追踪。</figcaption>
 </section>
 
 <section style="margin-bottom: 30px">
@@ -70,7 +70,7 @@
 	</video>
 	</div>
 	<figcaption style="padding: 10px;margin-top:10px">
-	<p>该动画通过立即从触碰点向外扩散的墨水晕染效果来确认用户的输入。浮起的卡片组件表面当前处于组件激活状态。</p>
+	<p>该动效通过立即从触碰点向外扩散的墨水晕染效果来确认用户的输入。浮起的卡片组件表面当前处于组件激活状态。</p>
 	</figcaption>
 </figure>
 <figure style="width: 45%;float: left;margin-right: 20px;">
@@ -81,7 +81,7 @@
 	</video>
 	</div>
 	<figcaption style="padding: 10px;margin-top:10px">
-	<p>该动画显示了新创建的组件平面如何与创建它的元素或动作进行衔接。</p>
+	<p>该动效显示了新创建的组件平面如何与创建它的元素或动作进行衔接。</p>
 	</figcaption>
 </figure>
 <div style="clear: both;"></div>
@@ -141,7 +141,7 @@
 	</video>
 	</div>
 	<figcaption style="padding: 10px;margin-top:10px">
-	<p>随着元素转场到视图，它们及其周围环境以一种可以定义它们关系的方式进行动画编排。</p>
+	<p>随着元素转场到视图，它们及其周围环境以一种可以定义它们关系的方式进行动效编排。</p>
 	</figcaption>
 </figure>
 <figure style="width: 45%;float: left;margin-right: 20px;">
@@ -185,7 +185,7 @@
 	<source src="https://storage.googleapis.com/material-design/publish/material_v_11/assets/0B14F_FSUCc01SDNmSjRhbE9FNVU/Intentional_01_Focus-v3.mp4" type="video/mp4">
 	</div>
 	<figcaption style="padding: 10px;margin-top:10px">
-	<p>转场动画可以帮助引导用户进行下一步交互。</p>
+	<p>转场动效可以帮助引导用户进行下一步交互。</p>
 	</figcaption>
 </figure>
 <figure style="width: 45%;float: left;margin-right: 20px;">
@@ -211,7 +211,7 @@
 	</video>
 	</div>
 	<figcaption style="padding: 10px;margin-top:10px">
-	<p>动画可以帮助将焦点放在需要用户注意的元素上。</p>
+	<p>动效可以帮助将焦点放在需要用户注意的元素上。</p>
 	</figcaption>
 </figure>
 <div style="clear: both;"></div>
@@ -221,7 +221,7 @@
 
 <h2 id="trans" style="color: #00bcd4">优秀转场的关键</h2>
 
-成功的动画设计拥有以下特性：
+成功的动效设计拥有以下特性：
 
 <h4 style="color:#00bcd4">运动要迅速</h4>
 
@@ -237,7 +237,7 @@
 	</div>
 	<figcaption style="border-top:15px solid #4caf50;padding: 10px;margin-top:10px">
 	<p style="color: #2e7b32;margin-bottom: 0.3em;">正确</p>
-	<p>迅速的动画无需让用户必须等待其完成。</p>
+	<p>迅速的动效无需让用户必须等待其完成。</p>
 	</figcaption>
 </figure>
 <figure style="width: 45%;float: left;margin-right: 20px;">
@@ -249,7 +249,7 @@
 	</div>
 	<figcaption style="border-top:15px solid #d32f2f;padding: 10px;margin-top:10px">
 	<p style="color: #d32f2f;margin-bottom: 0.3em;">错误</p>
-	<p>许多元素交错和缓慢的动作将延长动画的持续时间。</p>
+	<p>许多元素交错和缓慢的动作将延长动效的持续时间。</p>
 	</figcaption>
 </figure>
 <div style="clear: both;"></div>
@@ -257,7 +257,7 @@
 
 <h4 style="color:#00bcd4">运动要清晰</h4>
 
-转场动画应该清晰，简介，连贯。应避免一次做太多事情。
+转场动效应该清晰，简介，连贯。应避免一次做太多事情。
 
 <section style="margin-bottom: 30px">
 <figure style="width: 45%;float: left;margin-right: 20px;">
@@ -289,7 +289,7 @@
 
 <h4 style="color:#00bcd4">运动要连贯</h4>
 
-材质元素由速度，反应和用意统一起来。任何自定义的动画体验应在整个程序中保持一致。
+材质元素由速度，反应和用意统一起来。任何自定义的动效体验应在整个程序中保持一致。
 
 <section style="margin-bottom: 30px">
 <figure style="width: 90%;">
@@ -300,14 +300,14 @@
 	</video>
 	</div>
 	<figcaption style="padding: 10px;margin-top:10px">
-	<p>即使这些应用有着不同的功能，它们相似的动画体验使他们感觉这些交互彼此相关。</p>
+	<p>即使这些应用有着不同的功能，它们相似的动效体验使他们感觉这些交互彼此相关。</p>
 	</figcaption>
 </figure>
 </section>
 
 <hr style="height:1px; margin: 50px 0;"></hr>
 
-<h2 id="meanani" style="color: #00bcd4">动画的含义</h2>
+<h2 id="meanani" style="color: #00bcd4">动效的含义</h2>
 
 这些运动模式的好处可以从以下两个实例中发现，遵循这些模式的范例和未遵循这些模式的范例相比较。
 
