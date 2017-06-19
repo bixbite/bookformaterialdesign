@@ -8,6 +8,6 @@
   * [高度与阴影](gao-du-he-yin-ying.md)
 * [动效](dong-hua.md)
   * [质感设计之动效](dong-hua/cai-zhi-dong-hua.md)
-  * [动画持续时间和缓动效果](dong-hua/dong-hua-chi-xu-shi-jian-he-huan-dong-xiao-guo.md)
+  * [动效持续时间和缓动效果](dong-hua/dong-hua-chi-xu-shi-jian-he-huan-dong-xiao-guo.md)
   * 运动
 
