@@ -50,49 +50,131 @@
 <div style="clear: both;"></div>
 </section>
 
+<hr style="height:1px; margin: 50px 0;"></hr>
 
+<h2 id="dynamic" style="color: #00bcd4">动态的持续时间</h2>
 
+针对不同的行进距离，元素运行速度和表面的变化，采取不同的动效持续时间，而不是为所有动画提供唯一的持续时间。
 
-
-
+物体离开屏幕时的动效可能较短，因为它们需要较少的注意。
 
 <section style="margin-bottom: 30px">
 <figure style="width: 90%;">
 	<div>
 	<video loop="" preload="auto" tabindex="0" width="100%" height="100%" controls="">
-	<source src="https://storage.googleapis.com/material-design/publish/material_v_11/assets/0B14F_FSUCc01dG5OVlFUTVFySTg/Responsive_01_Durations-v1.webm" type="video/webm">
-	<source src="https://storage.googleapis.com/material-design/publish/material_v_11/assets/0B14F_FSUCc01a05pM2FXWEN0b0U/Responsive_01_Durations-v1.mp4" type="video/mp4">
-	</video>
+	<source src="https://storage.googleapis.com/material-design/publish/material_v_11/assets/0B14F_FSUCc01RmIzcDNDd2tnak0/DynamicDurations_01_LongDistance-v2.webm" type="video/webm">
+	<source src="https://storage.googleapis.com/material-design/publish/material_v_11/assets/0B14F_FSUCc01WHpEd1JVWVBvUm8/DynamicDurations_01_LongDistance-v2.mp4" type="video/mp4">
 	</div>
 </figure>
-<figcaption>较大的动画时长应保持在300-400ms，较小的保持在150-200ms。大于或小于这些时长的动画可能会让人感到迟钝或目光难以追踪。</figcaption>
+<figcaption>当物体需要行进较长距离或表面发生显著变化时，需要使用较长的动效持续时间。</figcaption>
 </section>
 
 <section style="margin-bottom: 30px">
-<figure style="width: 45%;float: left;margin-right: 20px;">
+<figure style="width: 90%;">
 	<div>
 	<video loop="" preload="auto" tabindex="0" width="100%" height="100%" controls="">
-	<source src="https://storage.googleapis.com/material-design/publish/material_v_11/assets/0B14F_FSUCc01aGFDUmZwNG1sTTQ/Responsive_02_Feedback-v2.webm" type="video/webm">
-	<source src="https://storage.googleapis.com/material-design/publish/material_v_11/assets/0B14F_FSUCc01YVB4OXVzV3NQR3M/Responsive_02_Feedback-v2.mp4" type="video/mp4">
-	</video>
+	<source src="https://storage.googleapis.com/material-design/publish/material_v_11/assets/0B14F_FSUCc01bEdqaWFncGo2anM/DynamicDurations_02_ShortDistance-v2.webm" type="video/webm">
+	<source src="https://storage.googleapis.com/material-design/publish/material_v_11/assets/0B14F_FSUCc01T3RNOFhadU96OTQ/DynamicDurations_02_ShortDistance-v2.mp4" type="video/mp4">
 	</div>
-	<figcaption style="padding: 10px;margin-top:10px">
-	<p>该动画通过立即从触碰点向外扩散的墨水晕染效果来确认用户的输入。浮起的卡片组件表面当前处于组件激活状态。</p>
-	</figcaption>
 </figure>
-<figure style="width: 45%;float: left;margin-right: 20px;">
-	<div>
-	<video loop="" preload="auto" tabindex="0" width="100%" height="100%" controls="">
-	<source src="https://storage.googleapis.com/material-design/publish/material_v_11/assets/0B14F_FSUCc01RkRSNjBMbGU2UHM/Responsive_03_SurfaceConnection-v3.webm" type="video/webm">
-	<source src="https://storage.googleapis.com/material-design/publish/material_v_11/assets/0B14F_FSUCc01MkJzdEZuY0E5YXM/Responsive_03_SurfaceConnection-v3.mp4" type="video/mp4">
-	</video>
-	</div>
-	<figcaption style="padding: 10px;margin-top:10px">
-	<p>该动画显示了新创建的组件平面如何与创建它的元素或动作进行衔接。</p>
-	</figcaption>
-</figure>
-<div style="clear: both;"></div>
+<figcaption>当物体行进距离较短或表面稍微发生改变时，使用较短的持续时间，以使运动不会显的太慢。</figcaption>
 </section>
+
+<hr style="height:1px; margin: 50px 0;"></hr>
+
+<h2 id="commons" style="color: #00bcd4">通用动效持续时间</h2>
+
+<h4 style="color:#00bcd4">手机</h4>
+
+手机上的动效通常在300ms左右，在这种差异范围内：
+* 较大的，复杂的全屏动效转场可能持续时间更久，一般超过375ms
+* 元素进入屏幕一般在225ms左右
+* 元素离开屏幕一般在195ms
+
+转场动效超过400ms就会让人感觉到慢
+
+<h4 style="color:#00bcd4">大屏</h4>
+
+行进距离较长的元素要比在同一时间段内行进距离短的峰值速度更高。因此大屏上更应具有更长的持续时间，以便动效不会太快
+
+<h4 style="color:#00bcd4">平板</h4>
+
+平板上的持续时间应该比手机上长30%。例如在手机上的时长300ms，在平板上应该为390ms
+
+<h4 style="color:#00bcd4">可穿戴</h4>
+
+可穿戴设备上的动效持续时间应比手机上少30%
+
+<section style="margin-bottom: 30px">
+<figure style="width: 90%;">
+	<div>
+	<video loop="" preload="auto" tabindex="0" width="100%" height="100%" controls="">
+	<source src="https://storage.googleapis.com/material-design/publish/material_v_11/assets/0B14F_FSUCc01cjZHeUxGdHRIc2s/CommonDurations_01_3Devices_v1.webm" type="video/webm">
+	<source src="https://storage.googleapis.com/material-design/publish/material_v_11/assets/0B14F_FSUCc01MS1KNXRLQ0hZUzQ/CommonDurations_01_3Devices_v1.mp4" type="video/mp4">
+	</div>
+</figure>
+<figcaption>因为材质元素在较大尺寸设备上移动的距离更长，所以转场动效应比屏幕较小的设备稍慢。</figcaption>
+</section>
+
+<h4 style="color:#00bcd4">台式</h4>
+
+桌面上的动效应该比相应移动端更快，更简洁。动效应保持在150ms-200ms。
+
+因为桌面端的转场可能不那么引人注意，因此动效应立即响应且较之移动端更快。
+
+复杂的页面转场通常会导致丢帧，因此更短的持续时间可以使丢帧问题变得不太明显，因为动效完成的更快。
+
+<section style="margin-bottom: 30px">
+<figure style="width: 90%;">
+	<div>
+	<video loop="" preload="auto" tabindex="0" width="100%" height="100%" controls="">
+	<source src="https://storage.googleapis.com/material-design/publish/material_v_11/assets/0B14F_FSUCc01cjZHeUxGdHRIc2s/CommonDurations_01_3Devices_v1.webm" type="video/webm">
+	<source src="https://storage.googleapis.com/material-design/publish/material_v_11/assets/0B14F_FSUCc01MS1KNXRLQ0hZUzQ/CommonDurations_01_3Devices_v1.mp4" type="video/mp4">
+	</div>
+</figure>
+<figcaption>台式机上应用动效更快</figcaption>
+</section>
+
+<hr style="height:1px; margin: 50px 0;"></hr>
+
+<h2 id="natural" style="color: #00bcd4">自然的缓动曲线</h2>
+
+这些自然的缓动曲线影响一个元素的运动速度，透明度和大小变化。
+
+在整个动画的持续过程中，加速和减速的变化应该保持平滑，这样做使得动画看起来不至于机械。
+
+<section style="margin-bottom: 30px">
+<figure style="width: 90%;">
+	<div>
+	<video loop="" preload="auto" tabindex="0" width="100%" height="100%" controls="">
+	<source src="https://storage.googleapis.com/material-design/publish/material_v_11/assets/0B14F_FSUCc01Nmh2YUJrLXRIQ00/NaturalEasing_01_CurveNoCurve_v1.webm" type="video/webm">
+	<source src="https://storage.googleapis.com/material-design/publish/material_v_11/assets/0B14F_FSUCc01U1Bwb0RRVW5rVFE/NaturalEasing_01_CurveNoCurve_v1.mp4" type="video/mp4">
+	</div>
+</figure>
+</section>
+
+当物体运动的加速和减速越不对称，运动越显得更加自然和令人愉悦。
+
+<section style="margin-bottom: 30px">
+<figure style="width: 90%;">
+	<div>
+	<video loop="" preload="auto" tabindex="0" width="100%" height="100%" controls="">
+	<source src="https://storage.googleapis.com/material-design/publish/material_v_11/assets/0B14F_FSUCc01QmRrZkxRMElCenM/NaturalEasing_00_AsymetricCurve_v1.webm" type="video/webm">
+	<source src="https://storage.googleapis.com/material-design/publish/material_v_11/assets/0B14F_FSUCc01VXpUY3h6NHBtbXc/NaturalEasing_00_AsymetricCurve_v1.mp4" type="video/mp4">
+	</div>
+</figure>
+</section>
+
+
+
+
+
+
+
+
+
+
+
 
 <h4 style="color:#00bcd4">自然</h4>
 
